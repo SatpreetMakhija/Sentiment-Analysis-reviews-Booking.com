@@ -1,0 +1,2465 @@
+[
+    {
+        "name": "Hotel Mandarin Oriental, Kuala Lumpur",
+        "location": "Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia",
+        "breakdown_list": {
+            "Staff ": "9.4",
+            "Facilities ": "9.3",
+            "Cleanliness ": "9.5",
+            "Comfort ": "9.5",
+            "Value for money": "8.7",
+            "Location ": "9.6",
+            "Free WiFi": "8.8"
+        },
+        "rating": "9.2",
+        "comments": [
+            {
+                "name": "Eric",
+                "date": "019",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Ameerah",
+                "date": "",
+                "score": "8.0",
+                "comments": "Staycation for our son\u2019s 1st Birthday"
+            },
+            {
+                "name": "Athirah",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Ku",
+                "date": "",
+                "score": "10",
+                "comments": "Excellent Staycation!"
+            },
+            {
+                "name": "Kamarul",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Sharin",
+                "date": "",
+                "score": "8.0",
+                "comments": "MO more"
+            },
+            {
+                "name": "Julina",
+                "date": "",
+                "score": "8.0",
+                "comments": "Good but not perfect"
+            },
+            {
+                "name": "Soraya",
+                "date": "",
+                "score": "10",
+                "comments": "will comeback again!"
+            },
+            {
+                "name": "Zaila",
+                "date": "",
+                "score": "8.0",
+                "comments": "Nice short holiday for my family and I."
+            },
+            {
+                "name": "Asmawati",
+                "date": "",
+                "score": "9.0",
+                "comments": "This is my third visit to MO and their services still tip top"
+            },
+            {
+                "name": "Siti",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "10",
+                "comments": "Worth every penny!"
+            },
+            {
+                "name": "Tengku",
+                "date": "",
+                "score": "8.0",
+                "comments": "Nice & comfortable"
+            },
+            {
+                "name": "Sharifah",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Lilp",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Siti",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Isz",
+                "date": "",
+                "score": "10",
+                "comments": "Superb Internet for the conference meeting."
+            },
+            {
+                "name": "Nadhiah",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Aliza",
+                "date": "",
+                "score": "8.0",
+                "comments": "Everything was great, except for very long queue during check in eventhough I check in around 5.30 pm."
+            },
+            {
+                "name": "Noorfazliyaton",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Noorfazliyaton",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nadzeerah",
+                "date": "",
+                "score": "10",
+                "comments": "i will definitely come again for another visit. maybe hi-tea or lunch at their chinese restaurant."
+            },
+            {
+                "name": "Fiona",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Noriza",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Fara",
+                "date": "",
+                "score": "9.0",
+                "comments": "Overnight stay with my kids - lovely way to unwind and relax!"
+            },
+            {
+                "name": "Hafeez",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Ahmad",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Sarwanie",
+                "date": "",
+                "score": "10",
+                "comments": "A tremendous weekend gateway with extraordinary service and facilities"
+            },
+            {
+                "name": "Zammil",
+                "date": "",
+                "score": "10",
+                "comments": "World class"
+            },
+            {
+                "name": "Nurul",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Ahmad",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "9.0",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Pervinder",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Farida",
+                "date": "021",
+                "score": "10",
+                "comments": "Only the carpark lighting is not bright enough. Its scAry to get to the car alone."
+            },
+            {
+                "name": "Zarina",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "9.0",
+                "comments": "Everything was good except for the late check in"
+            },
+            {
+                "name": "Mems",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Hasniyati",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Keane",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Ayu",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Asmira",
+                "date": "",
+                "score": "10",
+                "comments": "Staff was friendly and really helpful \ud83e\udd70"
+            },
+            {
+                "name": "Rachel",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Santacruz",
+                "date": "",
+                "score": "8.0",
+                "comments": "Overall is good"
+            },
+            {
+                "name": "Notorious",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mohd",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Syahir",
+                "date": "",
+                "score": "8.0",
+                "comments": "Oh My Mandarin"
+            },
+            {
+                "name": "Abdul",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Noor",
+                "date": "",
+                "score": "9.0",
+                "comments": "Great staycation"
+            },
+            {
+                "name": "Adelynn",
+                "date": "",
+                "score": "9.0",
+                "comments": "Staycay in KL"
+            },
+            {
+                "name": "Iwani",
+                "date": "",
+                "score": "9.0",
+                "comments": "Still my favorite since i was at my secondary!"
+            },
+            {
+                "name": "Fatin",
+                "date": "",
+                "score": "10",
+                "comments": "Worth every penny!"
+            },
+            {
+                "name": "Wan",
+                "date": "",
+                "score": "9.0",
+                "comments": "Amazing hospitality"
+            },
+            {
+                "name": "Razz77",
+                "date": "",
+                "score": "10",
+                "comments": "Fantastic, wish they mentioned tennis court is not free for guest."
+            },
+            {
+                "name": "Kannan",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful place to stay in KL. Next I may visit the Chinese restaurant for Dim Sum."
+            },
+            {
+                "name": "Nor",
+                "date": "",
+                "score": "9.0",
+                "comments": "GOOD STAY AND WILL DEFINITEY WILL COME AGAIN"
+            },
+            {
+                "name": "Ili",
+                "date": "",
+                "score": "9.0",
+                "comments": "City staycation"
+            },
+            {
+                "name": "Affiz",
+                "date": "",
+                "score": "10",
+                "comments": "Marvelous"
+            },
+            {
+                "name": "Shahferoz",
+                "date": "",
+                "score": "10",
+                "comments": "Lovely Staycation"
+            },
+            {
+                "name": "Nurul",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Nurul",
+                "date": "",
+                "score": "10",
+                "comments": "Superb"
+            },
+            {
+                "name": "Anfaal",
+                "date": "",
+                "score": "9.0",
+                "comments": "Great gateway"
+            },
+            {
+                "name": "Anis",
+                "date": "21",
+                "score": "10",
+                "comments": "open the swimming pool"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Aiman",
+                "date": "",
+                "score": "10",
+                "comments": "Great staycation! Will come again!"
+            },
+            {
+                "name": "Nor",
+                "date": "",
+                "score": "9.0",
+                "comments": "Weekend well spent @ MO"
+            },
+            {
+                "name": "Kv",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nurazreen",
+                "date": "",
+                "score": "10",
+                "comments": "Very nice hotel room & close to klcc makes it convenient especially if travel with kids"
+            },
+            {
+                "name": "Leng",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Amalina",
+                "date": "",
+                "score": "10",
+                "comments": "incredible service"
+            },
+            {
+                "name": "Amalina",
+                "date": "",
+                "score": "10",
+                "comments": "awesome amazing"
+            },
+            {
+                "name": "Amalina",
+                "date": "",
+                "score": "10",
+                "comments": "awesome amazing"
+            },
+            {
+                "name": "Nor",
+                "date": "",
+                "score": "9.0",
+                "comments": "Fantastic"
+            },
+            {
+                "name": "Niall",
+                "date": "021",
+                "score": "10",
+                "comments": "Great place"
+            },
+            {
+                "name": "Wani",
+                "date": "",
+                "score": "9.0",
+                "comments": "Excellent hotel"
+            },
+            {
+                "name": "Aiman",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Seng",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nils",
+                "date": "",
+                "score": "10",
+                "comments": "Perfect staycation!"
+            },
+            {
+                "name": "Chin",
+                "date": "",
+                "score": "9.0",
+                "comments": "A short romantic getaway!"
+            },
+            {
+                "name": "Muhammad",
+                "date": "",
+                "score": "10",
+                "comments": "excellent"
+            },
+            {
+                "name": "Amirah",
+                "date": "",
+                "score": "9.0",
+                "comments": "Our one-night \"Home Away From Home\""
+            },
+            {
+                "name": "Geetha",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Roslina",
+                "date": "",
+                "score": "10",
+                "comments": "We really had a great time during our stay. There were lots to do at Mandarin Oriental."
+            },
+            {
+                "name": "Izzati",
+                "date": "",
+                "score": "10",
+                "comments": "1st class hotel"
+            },
+            {
+                "name": "Norisham",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Money well spent"
+            },
+            {
+                "name": "Adila",
+                "date": "",
+                "score": "10",
+                "comments": "GOOD"
+            },
+            {
+                "name": "Rosnah",
+                "date": "",
+                "score": "9.0",
+                "comments": "Overall, I was satisfied with the accommodation."
+            },
+            {
+                "name": "Nurul",
+                "date": "",
+                "score": "10",
+                "comments": "all is well"
+            },
+            {
+                "name": "Anna",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Muhammad",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional service"
+            },
+            {
+                "name": "Sahira",
+                "date": "",
+                "score": "9.0",
+                "comments": "Great staycation"
+            },
+            {
+                "name": "Daniel",
+                "date": "",
+                "score": "8.0",
+                "comments": "Check in took too long with the long line. However manager compensated with late checkout to 4pm"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "8.0",
+                "comments": "ok."
+            },
+            {
+                "name": "Mohammad",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Fei",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Syuhada",
+                "date": "",
+                "score": "10",
+                "comments": "Best experience!"
+            },
+            {
+                "name": "Chiaw",
+                "date": "",
+                "score": "10",
+                "comments": "We enjoyed our stay thank you very much for the service."
+            },
+            {
+                "name": "Sivaramanan",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mohamad",
+                "date": "",
+                "score": "10",
+                "comments": "Great experience"
+            },
+            {
+                "name": "Fadilah",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Nurhanani",
+                "date": "",
+                "score": "10",
+                "comments": "Value for money!"
+            }
+        ]
+    },
+    {
+        "name": "Hotel Grand Hyatt Kuala Lumpur",
+        "location": "12, Jalan Pinang, 50450 Kuala Lumpur, Malaysia",
+        "breakdown_list": {
+            "Staff ": "9.4",
+            "Facilities ": "9.3",
+            "Cleanliness ": "9.4",
+            "Comfort ": "9.4",
+            "Value for money": "8.6",
+            "Location ": "9.5",
+            "Free WiFi ": "9.0"
+        },
+        "rating": "9.1",
+        "comments": [
+            {
+                "name": "Michael",
+                "date": "",
+                "score": "10",
+                "comments": "Perfect Weekend, Fantastic Hotel"
+            },
+            {
+                "name": "Nurul",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Rosmimah",
+                "date": "",
+                "score": "9.0",
+                "comments": "Excellent view of twin towers"
+            },
+            {
+                "name": "Hasina",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Nurain",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Natasya",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Siti",
+                "date": "",
+                "score": "9.0",
+                "comments": "Comfortable."
+            },
+            {
+                "name": "Mrs",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Mawar",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Siti",
+                "date": "021",
+                "score": "8.0",
+                "comments": "a nice retreat"
+            },
+            {
+                "name": "Chanje",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Muhammad",
+                "date": "",
+                "score": "9.0",
+                "comments": "Amazing"
+            },
+            {
+                "name": "Atiqah",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Zaharah",
+                "date": "",
+                "score": "9.0",
+                "comments": "Excellent gateway"
+            },
+            {
+                "name": "Siew",
+                "date": "",
+                "score": "9.0",
+                "comments": "Comfortable"
+            },
+            {
+                "name": "Afziv",
+                "date": "",
+                "score": "10",
+                "comments": "Superb STAYCATION!"
+            },
+            {
+                "name": "Nor",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Wei",
+                "date": "",
+                "score": "8.0",
+                "comments": "awesome!"
+            },
+            {
+                "name": "Mohamad",
+                "date": "",
+                "score": "9.0",
+                "comments": "The Staffs were attentive, frenly & very helpful, always with a smile."
+            },
+            {
+                "name": "Mahendran",
+                "date": "",
+                "score": "9.0",
+                "comments": "Satisfy"
+            },
+            {
+                "name": "Izz",
+                "date": "021",
+                "score": "9.0",
+                "comments": "It was a great stay and will definitely go again"
+            },
+            {
+                "name": "Rusnani",
+                "date": "",
+                "score": "10",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Nazreen",
+                "date": "21",
+                "score": "8.0",
+                "comments": "enjoy and making this as par to other hotel."
+            },
+            {
+                "name": "Fazlina",
+                "date": "",
+                "score": "8.0",
+                "comments": "Clean but delay at registration counter. Almost 2 hours waiting"
+            },
+            {
+                "name": "Sofea",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Siti",
+                "date": "",
+                "score": "8.0",
+                "comments": "Awesome"
+            },
+            {
+                "name": "Zauroh",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Nurul",
+                "date": "",
+                "score": "9.0",
+                "comments": "it was memorable since it was my honeymoon trip"
+            },
+            {
+                "name": "Puteri",
+                "date": "",
+                "score": "10",
+                "comments": "Best honeymoon stay ever ...."
+            },
+            {
+                "name": "Norafiza",
+                "date": "",
+                "score": "10",
+                "comments": "Everything good except the meals pricey."
+            },
+            {
+                "name": "Siti",
+                "date": "",
+                "score": "9.0",
+                "comments": "Relaxing and memorable weekend getaway."
+            },
+            {
+                "name": "Muhamad",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Shazlina",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mohd",
+                "date": "",
+                "score": "9.0",
+                "comments": "Nice and awesome"
+            },
+            {
+                "name": "Mhfr",
+                "date": "",
+                "score": "10",
+                "comments": "I'm feeling Grand!"
+            },
+            {
+                "name": "Muhammad",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nurul",
+                "date": "",
+                "score": "10",
+                "comments": "Wonderful Experience!"
+            },
+            {
+                "name": "Erna",
+                "date": "",
+                "score": "10",
+                "comments": "Have a memorable time"
+            },
+            {
+                "name": "Ahmad",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mohd",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Bristravelbane",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Khoo",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Noman",
+                "date": "",
+                "score": "10",
+                "comments": "Amazing"
+            },
+            {
+                "name": "Mohamad",
+                "date": "",
+                "score": "9.0",
+                "comments": "Memorable 21st Wedding Anniversary Get-Away, Definite comeback to enjoy longer Staycation"
+            },
+            {
+                "name": "Halmie",
+                "date": "021",
+                "score": "10",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Jeffry",
+                "date": "",
+                "score": "9.0",
+                "comments": "Small bath tub"
+            },
+            {
+                "name": "Fieza",
+                "date": "",
+                "score": "10",
+                "comments": "Prefect!"
+            },
+            {
+                "name": "Mangama",
+                "date": "",
+                "score": "10",
+                "comments": "Overal staying with family superb"
+            },
+            {
+                "name": "Lia",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Nurul",
+                "date": "",
+                "score": "10",
+                "comments": "COOL !"
+            },
+            {
+                "name": "Nurul",
+                "date": "021",
+                "score": "10",
+                "comments": "My family was so happy stay here so much. Thanks for the good service. Just love it \ud83d\udc97especially buffet breakfast was hea"
+            },
+            {
+                "name": "Gayatri",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Fahanaz",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Awesome!"
+            },
+            {
+                "name": "Mohd",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "No",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Mardziatulbee",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Siti",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful stay! Always accommodating."
+            },
+            {
+                "name": "Happy",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Zul",
+                "date": "21",
+                "score": "10",
+                "comments": "Excellent Stay!"
+            },
+            {
+                "name": "Mohd",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Natasha",
+                "date": "021",
+                "score": "10",
+                "comments": "Definitely the best hotel ever in kuala lumpur"
+            },
+            {
+                "name": "Faez",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "E",
+                "date": "021",
+                "score": "10",
+                "comments": "Best hotel so far!! Include gym facilities and the foood. Would love to come again for weekend staycation."
+            },
+            {
+                "name": "Syazana",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Navamuganthan",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Pleasant stay"
+            },
+            {
+                "name": "Divaneya",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Saiful",
+                "date": "021",
+                "score": "10",
+                "comments": "Marvelous staycation"
+            },
+            {
+                "name": "Tiffany",
+                "date": "021",
+                "score": "10",
+                "comments": "\u201cPerfect City Getaway\u201d"
+            },
+            {
+                "name": "Subhashini",
+                "date": "021",
+                "score": "10",
+                "comments": "Great hotel in the heart of town"
+            },
+            {
+                "name": "Alissa",
+                "date": "021",
+                "score": "10",
+                "comments": "I really had a great time staying at the hotel!"
+            },
+            {
+                "name": "Chia",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Super comfortable with everything and definitely will visit again next time"
+            },
+            {
+                "name": "Sanjiv",
+                "date": "021",
+                "score": "10",
+                "comments": "Warm hospitality"
+            },
+            {
+                "name": "Haf",
+                "date": "021",
+                "score": "10",
+                "comments": "Good for Couple in honeymoon mood \ud83d\ude0a"
+            },
+            {
+                "name": "Juanis",
+                "date": "021",
+                "score": "10",
+                "comments": "Amazing Views"
+            },
+            {
+                "name": "Juanis",
+                "date": "021",
+                "score": "10",
+                "comments": "View is Spectacular"
+            },
+            {
+                "name": "Keremjeet",
+                "date": "021",
+                "score": "10",
+                "comments": "The best hotel to stay"
+            },
+            {
+                "name": "Khairul",
+                "date": "020",
+                "score": "10",
+                "comments": "5 stars hotel"
+            },
+            {
+                "name": "Aliff",
+                "date": "020",
+                "score": "9.0",
+                "comments": "City staycation"
+            },
+            {
+                "name": "Raja",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Cik",
+                "date": "021",
+                "score": "10",
+                "comments": "SUPER !!!"
+            },
+            {
+                "name": "Adam",
+                "date": "21",
+                "score": "10",
+                "comments": "The best hotel experience"
+            },
+            {
+                "name": "Nick",
+                "date": "21",
+                "score": "10",
+                "comments": "Nice place...nice breakfast...nice view..will return back after mco"
+            },
+            {
+                "name": "Viknes",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Liana",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Faizanah",
+                "date": "020",
+                "score": "10",
+                "comments": "Good service"
+            },
+            {
+                "name": "Lee",
+                "date": "020",
+                "score": "8.0",
+                "comments": "I stayed happily for one night"
+            },
+            {
+                "name": "Noor",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Maryam",
+                "date": "020",
+                "score": "10",
+                "comments": "Honeymoon Trip!"
+            },
+            {
+                "name": "Abdullah",
+                "date": "020",
+                "score": "10",
+                "comments": "Awesome"
+            },
+            {
+                "name": "Jamilah",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Everything is superbb"
+            },
+            {
+                "name": "Abd",
+                "date": "21",
+                "score": "10",
+                "comments": "Love it!"
+            },
+            {
+                "name": "Rfeyh",
+                "date": "020",
+                "score": "10",
+                "comments": "The best hotel with variety food during breakfast"
+            },
+            {
+                "name": "Choryin",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Yaakub",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Would like to stay there again."
+            },
+            {
+                "name": "Hannah",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Amazing and luxurious view of the twin towers!"
+            },
+            {
+                "name": "Ian",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Guy",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Overall we really enjoyed our stay and will definitely be returning in the near future."
+            },
+            {
+                "name": "Norhafiza",
+                "date": "020",
+                "score": "10",
+                "comments": "Best ever hotel in KL"
+            },
+            {
+                "name": "Husna",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            }
+        ]
+    },
+    {
+        "name": "Hotel Traders Hotel Kuala Lumpur",
+        "location": "Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia",
+        "breakdown_list": {
+            "Staff": "9.0",
+            "Facilities": "8.8",
+            "Cleanliness ": "9.1",
+            "Comfort ": "9.1",
+            "Value for money": "8.3",
+            "Location ": "9.5",
+            "Free WiFi ": "8.9"
+        },
+        "rating": "8.8",
+        "comments": [
+            {
+                "name": "Hanna",
+                "date": "019",
+                "score": "10",
+                "comments": "Great hotel just in front of Petronas Towers"
+            },
+            {
+                "name": "Adam",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Bahtiar",
+                "date": "",
+                "score": "10",
+                "comments": "Excellent view of KLCC"
+            },
+            {
+                "name": "Sofia",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "8.0",
+                "comments": "Super slow check in process!"
+            },
+            {
+                "name": "Nor",
+                "date": "",
+                "score": "10",
+                "comments": "excellent as they give us extend few hour because of my kid's online class"
+            },
+            {
+                "name": "Atikah",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Hamizah",
+                "date": "",
+                "score": "9.0",
+                "comments": "Excellent. Value for money."
+            },
+            {
+                "name": "Amaleena",
+                "date": "",
+                "score": "10",
+                "comments": "Unbeatable view of KLCC!!"
+            },
+            {
+                "name": "El",
+                "date": "",
+                "score": "10",
+                "comments": "Great stay, great view."
+            },
+            {
+                "name": "Dm",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Azmaz",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nurdidi",
+                "date": "",
+                "score": "9.0",
+                "comments": "superb."
+            },
+            {
+                "name": "Nz",
+                "date": "",
+                "score": "8.0",
+                "comments": "Comfort staycation"
+            },
+            {
+                "name": "Rasyiqah",
+                "date": "",
+                "score": "8.0",
+                "comments": "had a good stay with the family"
+            },
+            {
+                "name": "Maryam",
+                "date": "",
+                "score": "8.0",
+                "comments": "Great stay!"
+            },
+            {
+                "name": "Guy",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Salniza",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Fina",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Alynn",
+                "date": "",
+                "score": "10",
+                "comments": "the hospitality was good. best hotel ever."
+            },
+            {
+                "name": "Siah",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Aini",
+                "date": "",
+                "score": "9.0",
+                "comments": "I totally recommended to others who want to enjoy a city view holidays and staycation."
+            },
+            {
+                "name": "Hazri",
+                "date": "",
+                "score": "8.0",
+                "comments": "Staycation"
+            },
+            {
+                "name": "Kherman1819",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Norfarzana",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Pixiep",
+                "date": "",
+                "score": "9.0",
+                "comments": "Great location, nice stay"
+            },
+            {
+                "name": "Aainaa",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Noradilah",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "9.0",
+                "comments": "My kids very happy staying here."
+            },
+            {
+                "name": "Mohd",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Mun",
+                "date": "",
+                "score": "10",
+                "comments": "KL Staycation"
+            },
+            {
+                "name": "Devahan",
+                "date": "",
+                "score": "10",
+                "comments": "Best Staycation ever !"
+            },
+            {
+                "name": "Ahmad",
+                "date": "",
+                "score": "10",
+                "comments": "Excellent experience"
+            },
+            {
+                "name": "Nurfarah",
+                "date": "",
+                "score": "10",
+                "comments": "Staycation"
+            },
+            {
+                "name": "Norzaidi",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "10",
+                "comments": "I enjoyed the staying!"
+            },
+            {
+                "name": "Ashrof",
+                "date": "",
+                "score": "10",
+                "comments": "Skybar"
+            },
+            {
+                "name": "Hafizul",
+                "date": "",
+                "score": "9.0",
+                "comments": "Love it"
+            },
+            {
+                "name": "Muhammad",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Siti",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful stay at The Trader's Hotel with room facing the KLCC Petrona Twin Tower"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Jason",
+                "date": "",
+                "score": "8.0",
+                "comments": "i try to support hotel industries due to the pandemic. it was overall nice staycation for my kids."
+            },
+            {
+                "name": "Abdul",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Muhamad",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Nazima",
+                "date": "",
+                "score": "9.0",
+                "comments": "Lovely place n i will definitely come again"
+            },
+            {
+                "name": "Zaini",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Hasbullah",
+                "date": "",
+                "score": "8.0",
+                "comments": "My kids very happy stayed there"
+            },
+            {
+                "name": "Shah",
+                "date": "",
+                "score": "10",
+                "comments": "Business hotel with killer view."
+            },
+            {
+                "name": "Rohizan",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Azrin",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Nadiah",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very good ."
+            },
+            {
+                "name": "Jue",
+                "date": "",
+                "score": "9.0",
+                "comments": "Staycation in the city"
+            },
+            {
+                "name": "Shafiq",
+                "date": "",
+                "score": "10",
+                "comments": "Everything was superb"
+            },
+            {
+                "name": "Numan",
+                "date": "",
+                "score": "10",
+                "comments": "Excellent place to stay"
+            },
+            {
+                "name": "2591",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mohd",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Muhammad",
+                "date": "",
+                "score": "9.0",
+                "comments": "Excellent hospitality"
+            },
+            {
+                "name": "Muhd",
+                "date": "",
+                "score": "8.0",
+                "comments": "Great!!"
+            },
+            {
+                "name": "Hanim",
+                "date": "",
+                "score": "10",
+                "comments": "Super awesomee staycation"
+            },
+            {
+                "name": "Muhammad",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Ann",
+                "date": "",
+                "score": "9.0",
+                "comments": "Excellent staycation"
+            },
+            {
+                "name": "Sha",
+                "date": "",
+                "score": "8.0",
+                "comments": "Amazing view, will come again."
+            },
+            {
+                "name": "Norfarah",
+                "date": "",
+                "score": "10",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Amir",
+                "date": "",
+                "score": "10",
+                "comments": "Padu."
+            },
+            {
+                "name": "Mohd",
+                "date": "",
+                "score": "10",
+                "comments": "Love it, will come again"
+            },
+            {
+                "name": "Rohaya",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Noriah",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Rafi",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Mohd",
+                "date": "",
+                "score": "10",
+                "comments": "Excellent service. All of them very friendly and reliable."
+            },
+            {
+                "name": "Nina",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Muhammad",
+                "date": "",
+                "score": "10",
+                "comments": "So good \ud83d\udc4d\ud83c\udffb"
+            },
+            {
+                "name": "M",
+                "date": "",
+                "score": "8.0",
+                "comments": "The parking area is good and they allowed us to exit even after check-out for visiting Aquaria."
+            },
+            {
+                "name": "Syarmimi",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Diyana",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Raisya",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Muhamad",
+                "date": "",
+                "score": "8.0",
+                "comments": "Nice view , good breakfast and have a good acces to klccs"
+            },
+            {
+                "name": "Wan",
+                "date": "",
+                "score": "8.0",
+                "comments": "Staycation with KLCC view!"
+            },
+            {
+                "name": "Ainie",
+                "date": "",
+                "score": "9.0",
+                "comments": "Best!!"
+            },
+            {
+                "name": "Eddy",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Michael",
+                "date": "",
+                "score": "8.0",
+                "comments": "Other than breakfast, the stay was great. I will definitely return."
+            },
+            {
+                "name": "Naa",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Erina",
+                "date": "",
+                "score": "10",
+                "comments": "The staff, the cleanliness, the view all are good. Will come over again!"
+            },
+            {
+                "name": "Chris",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Ahmad",
+                "date": "",
+                "score": "10",
+                "comments": "My Traders experience"
+            },
+            {
+                "name": "Nuramira",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Hafizah",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Lee",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Afiq",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nursyuhada",
+                "date": "",
+                "score": "10",
+                "comments": "Love it"
+            },
+            {
+                "name": "Mohd",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Norzahaida",
+                "date": "",
+                "score": "9.0",
+                "comments": "memorable"
+            },
+            {
+                "name": "Amiruddin",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Nurfarah",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Akma",
+                "date": "",
+                "score": "8.0",
+                "comments": "Nice KLCC bedroom"
+            },
+            {
+                "name": "Muhammad",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mohd",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Fairul",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Zauyah",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Norliza",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Anonymous",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            }
+        ]
+    },
+    {
+        "name": "Hotel DoubleTree By Hilton Kuala Lumpur",
+        "location": "348 Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia",
+        "breakdown_list": {
+            "Staff": "8.7",
+            "Facilities": "8.5",
+            "Cleanliness": "8.7",
+            "Comfort": "8.7",
+            "Value for money": "8.4",
+            "Location": "8.8"
+        },
+        "rating": "8.3",
+        "comments": [
+            {
+                "name": "Talha",
+                "date": "18",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Zulhusni",
+                "date": "",
+                "score": "8.0",
+                "comments": "Joyful 2 nights staycation"
+            },
+            {
+                "name": "Ryn",
+                "date": "",
+                "score": "9.0",
+                "comments": "Improve your swimming pool SOP, then I'll come back"
+            },
+            {
+                "name": "Reyna",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nor",
+                "date": "",
+                "score": "7.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Nurdia",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Azian",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Rc",
+                "date": "",
+                "score": "9.0",
+                "comments": "Excellent short escape with city view. Nearby to public transport allow for easy accomodation"
+            },
+            {
+                "name": "Afiqah",
+                "date": "",
+                "score": "9.0",
+                "comments": "Buffet staffs"
+            },
+            {
+                "name": "Agnes",
+                "date": "",
+                "score": "8.0",
+                "comments": "It is an affordable and comfortable staycation in a 5-star hotel."
+            },
+            {
+                "name": "Mohd",
+                "date": "",
+                "score": "7.0",
+                "comments": "overall it's a good hotel with good staff\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d"
+            },
+            {
+                "name": "Nonadin",
+                "date": "",
+                "score": "8.0",
+                "comments": "Three-quarter shorts"
+            },
+            {
+                "name": "Emyllia",
+                "date": "",
+                "score": "8.0",
+                "comments": "Clean room in a great location."
+            },
+            {
+                "name": "Mukhriz",
+                "date": "",
+                "score": "9.0",
+                "comments": "Amazing."
+            },
+            {
+                "name": "Sivadas",
+                "date": "",
+                "score": "8.0",
+                "comments": "Worth for the money"
+            },
+            {
+                "name": "Hasliza",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Hidaya",
+                "date": "",
+                "score": "8.0",
+                "comments": "The toilet is the issue. Always flooded since check in day because of the drainage system."
+            },
+            {
+                "name": "Muhammad",
+                "date": "",
+                "score": "7.0",
+                "comments": "We are lucky to stay here because the parking is free during weekend."
+            },
+            {
+                "name": "Asrul",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very valuable for money with excellent staff services."
+            },
+            {
+                "name": "Farhan",
+                "date": "",
+                "score": "8.0",
+                "comments": "Good stay"
+            },
+            {
+                "name": "Mrs",
+                "date": "",
+                "score": "8.0",
+                "comments": "we had a good time and sure will return back for our next reunion and will.be staying here again."
+            },
+            {
+                "name": "Mohd",
+                "date": "",
+                "score": "7.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Mohamed",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Aida",
+                "date": "21",
+                "score": "7.0",
+                "comments": "Great stay"
+            },
+            {
+                "name": "Daljit",
+                "date": "",
+                "score": "8.0",
+                "comments": "Overall was good"
+            },
+            {
+                "name": "Dr",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Muqhris",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Nadia",
+                "date": "",
+                "score": "7.0",
+                "comments": "Value for money"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Mohd",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Azalina",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Kaveta",
+                "date": "",
+                "score": "8.0",
+                "comments": "Enjoyed our stay"
+            },
+            {
+                "name": "Ghazali",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Aniszawati",
+                "date": "",
+                "score": "8.0",
+                "comments": "Location"
+            },
+            {
+                "name": "Azian",
+                "date": "",
+                "score": "8.0",
+                "comments": "Satisfaction"
+            },
+            {
+                "name": "Arfah",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very comfortable"
+            },
+            {
+                "name": "Nor",
+                "date": "",
+                "score": "7.0",
+                "comments": "Superb location but needs improvement"
+            },
+            {
+                "name": "Shamsul",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Huda",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very relaxing and memorable stay."
+            },
+            {
+                "name": "Aniszawati",
+                "date": "",
+                "score": "8.0",
+                "comments": "Near to everything"
+            },
+            {
+                "name": "Hajah",
+                "date": "",
+                "score": "8.0",
+                "comments": "EXCELLENT"
+            },
+            {
+                "name": "Siti",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Bharthiban",
+                "date": "",
+                "score": "7.0",
+                "comments": "Excellent and Awesome Hospitality.."
+            },
+            {
+                "name": "Azwina",
+                "date": "020",
+                "score": "7.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Farah",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Mohd",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Overall was satisfactory"
+            },
+            {
+                "name": "Dalina",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Hani",
+                "date": "",
+                "score": "7.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Denis",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Bianus",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Chee",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Munirah",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Robi",
+                "date": "",
+                "score": "7.0",
+                "comments": "Good"
+            },
+            {
+                "name": "C",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Farida",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Anna",
+                "date": "021",
+                "score": "9.0",
+                "comments": "A pleasent and cozy stay!"
+            },
+            {
+                "name": "Rozlynn",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Nice & cosy"
+            },
+            {
+                "name": "Jamie",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Hock",
+                "date": "021",
+                "score": "9.0",
+                "comments": "good"
+            },
+            {
+                "name": "Sarah",
+                "date": "021",
+                "score": "7.0",
+                "comments": "Bathroom Complaint"
+            },
+            {
+                "name": "Afiqah",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Norisnani",
+                "date": "021",
+                "score": "8.0",
+                "comments": "A place to stay for emergency reason"
+            },
+            {
+                "name": "Suhaila",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Geethananthini",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Snow",
+                "date": "021",
+                "score": "7.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Qid",
+                "date": "021",
+                "score": "7.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Fatiazee",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Nor",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Great location"
+            },
+            {
+                "name": "Awan",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Ahmad",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Perfect place for a quick getaway, with accommodating staff and various food takeout options."
+            },
+            {
+                "name": "Nura",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Lovely assisted buffet, good for short stay or working-from-hotel"
+            },
+            {
+                "name": "Fatmah",
+                "date": "21",
+                "score": "7.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Muhamad",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Qistina",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Good stay!"
+            },
+            {
+                "name": "Sg",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Great place to stay"
+            },
+            {
+                "name": "Junaidi",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Fantastic location and facilities"
+            },
+            {
+                "name": "Muzaffar",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Excellent service by Double Tree Staff"
+            },
+            {
+                "name": "Mohd",
+                "date": "020",
+                "score": "7.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Tebba",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Rizal",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Comfort"
+            },
+            {
+                "name": "Mu'az",
+                "date": "21",
+                "score": "9.0",
+                "comments": "I fall in love with this hotel."
+            },
+            {
+                "name": "Fazreena",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Abdullah",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Chun",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Good stay"
+            },
+            {
+                "name": "Shahin",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Muhammad",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Great escape"
+            },
+            {
+                "name": "Kar",
+                "date": "21",
+                "score": "7.0",
+                "comments": "The bathroom sink was stuck"
+            },
+            {
+                "name": "Azwa",
+                "date": "020",
+                "score": "7.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Noor",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Room"
+            },
+            {
+                "name": "Suhaila",
+                "date": "21",
+                "score": "9.0",
+                "comments": "cosy place to stay over during weekend. suitable for family."
+            },
+            {
+                "name": "Sylvia",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Chew",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Atikah",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Radzillah",
+                "date": "21",
+                "score": "8.8",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Imann",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Kenny",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Ariffah",
+                "date": "21",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Sya",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Zuraini",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2466 @@
+[
+    {
+        "name": "Hotel Carlton Hotel Singapore (SG Clean, Staycation Approved)",
+        "location": "76 Bras Basah Road, City Hall, 189558 Singapore, Singapore",
+        "breakdown_list": {
+            "Staff": "8.9",
+            "Facilities ": "8.7",
+            "Cleanliness ": "9.1",
+            "Comfort ": "9.1",
+            "Value for money": "8.3",
+            "Location ": "9.4",
+            "Free WiFi": "8.6"
+        },
+        "rating": "8.8",
+        "comments": [
+            {
+                "name": "Ashley",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Shirley",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Yusnani",
+                "date": "",
+                "score": "9.0",
+                "comments": "Great Staycay!!"
+            },
+            {
+                "name": "Roslan",
+                "date": "",
+                "score": "9.0",
+                "comments": "Excellance"
+            },
+            {
+                "name": "Eric",
+                "date": "021",
+                "score": "10",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Babyzeta",
+                "date": "",
+                "score": "10",
+                "comments": "One of the best hotel in Singapore!"
+            },
+            {
+                "name": "Fa",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Emmeline",
+                "date": "",
+                "score": "9.0",
+                "comments": "Good location with good price"
+            },
+            {
+                "name": "Xiong",
+                "date": "021",
+                "score": "8.0",
+                "comments": "convenient"
+            },
+            {
+                "name": "Reduan",
+                "date": "021",
+                "score": "10",
+                "comments": "Double thumbs up!"
+            },
+            {
+                "name": "Ming",
+                "date": "",
+                "score": "8.0",
+                "comments": "Value for money, fantastic room, staff great, clean and food yammy"
+            },
+            {
+                "name": "Emmzdm",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Daniial",
+                "date": "",
+                "score": "9.0",
+                "comments": "It was AWESOME! Will definitely come back!"
+            },
+            {
+                "name": "Khaliq",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Renesisrotary",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "John",
+                "date": "",
+                "score": "8.0",
+                "comments": "Not bad for the money paid and food could be better"
+            },
+            {
+                "name": "Jessica",
+                "date": "",
+                "score": "9.0",
+                "comments": "Comfortable"
+            },
+            {
+                "name": "Tiane",
+                "date": "",
+                "score": "9.0",
+                "comments": "Nice"
+            },
+            {
+                "name": "Maisy",
+                "date": "",
+                "score": "10",
+                "comments": "Awesome!!"
+            },
+            {
+                "name": "Su",
+                "date": "",
+                "score": "10",
+                "comments": "Great place!"
+            },
+            {
+                "name": "R",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Ed",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Farhan",
+                "date": "",
+                "score": "10",
+                "comments": "Front desk"
+            },
+            {
+                "name": "Shanshan18",
+                "date": "",
+                "score": "8.0",
+                "comments": "Room cleanliness"
+            },
+            {
+                "name": "Nadia",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Fatmah",
+                "date": "",
+                "score": "8.0",
+                "comments": "Great location"
+            },
+            {
+                "name": "Yanan",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Huan",
+                "date": "",
+                "score": "8.0",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Lee",
+                "date": "",
+                "score": "10",
+                "comments": "Wow"
+            },
+            {
+                "name": "Nurul",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nur",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Honeyy",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Shaui",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Abdul",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Jenny",
+                "date": "",
+                "score": "9.0",
+                "comments": "Comfortable and relaxing trip"
+            },
+            {
+                "name": "Liew",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Christopher",
+                "date": "",
+                "score": "9.0",
+                "comments": "Ideal staycation in the middle of the city"
+            },
+            {
+                "name": "Puteri",
+                "date": "",
+                "score": "10",
+                "comments": "Its a great stay in Carlton Hotel. Its convenient to travel from hotel to other destination."
+            },
+            {
+                "name": "Vania",
+                "date": "",
+                "score": "9.0",
+                "comments": "Great choice for staycation!"
+            },
+            {
+                "name": "Nurul",
+                "date": "",
+                "score": "10",
+                "comments": "Excellent. Will be coming again"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Ben",
+                "date": "",
+                "score": "9.0",
+                "comments": "I am happy with my stay."
+            },
+            {
+                "name": "Nigel",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Benjamin",
+                "date": "021",
+                "score": "10",
+                "comments": "Central and convenient location"
+            },
+            {
+                "name": "Mageswari",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Huanyi",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Nil"
+            },
+            {
+                "name": "Faris",
+                "date": "021",
+                "score": "10",
+                "comments": "The best"
+            },
+            {
+                "name": "Saiizan",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Overall pleasant seamless experience."
+            },
+            {
+                "name": "Anthony",
+                "date": "021",
+                "score": "10",
+                "comments": "Clean and awesome place to staycay"
+            },
+            {
+                "name": "Abbie",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Titi",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Short and simple"
+            },
+            {
+                "name": "Liyana",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Good Staycation with family"
+            },
+            {
+                "name": "Linda",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Carlton staycation"
+            },
+            {
+                "name": "Mohan",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Km",
+                "date": "021",
+                "score": "10",
+                "comments": "Fantastic getaway haven"
+            },
+            {
+                "name": "Alvinf44",
+                "date": "021",
+                "score": "8.0",
+                "comments": "CNY holiday at Carlton"
+            },
+            {
+                "name": "Herson",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Licheng",
+                "date": "021",
+                "score": "8.0",
+                "comments": "short and sweet stay"
+            },
+            {
+                "name": "Shu",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Arsyrf",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Alex",
+                "date": "021",
+                "score": "10",
+                "comments": "Favourite place"
+            },
+            {
+                "name": "Liang",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Value to stay"
+            },
+            {
+                "name": "Ms",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Ng",
+                "date": "021",
+                "score": "10",
+                "comments": "Staycation Stay"
+            },
+            {
+                "name": "Roland",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Spacious and Comfy"
+            },
+            {
+                "name": "Monica",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nur",
+                "date": "021",
+                "score": "10",
+                "comments": "Convenient and cozy"
+            },
+            {
+                "name": "Katrina",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Fr",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Shasha",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Hui",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Satisfied"
+            },
+            {
+                "name": "Hakim",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Almost perfect"
+            },
+            {
+                "name": "Barbara",
+                "date": "21",
+                "score": "10",
+                "comments": "Very nice and pleasant stay"
+            },
+            {
+                "name": "Mustafa",
+                "date": "020",
+                "score": "10",
+                "comments": "Excellent!"
+            },
+            {
+                "name": "Mohamed",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Dexter",
+                "date": "21",
+                "score": "10",
+                "comments": "Cleanliness was great. Spacious room. For the price, worth it"
+            },
+            {
+                "name": "Vinod",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Nice n pleasant stay"
+            },
+            {
+                "name": "Silawan",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Carlton SG"
+            },
+            {
+                "name": "Ella",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Love it will come back again"
+            },
+            {
+                "name": "Desiree",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Izack",
+                "date": "21",
+                "score": "10",
+                "comments": "very good service"
+            },
+            {
+                "name": "Elizabeth",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Kyle",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Pleasant stay at a great location"
+            },
+            {
+                "name": "Daniel",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Ng",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Comfortable."
+            },
+            {
+                "name": "Chan",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Rudy",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Ismangil",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Jessica",
+                "date": "020",
+                "score": "10",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Wong",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Adilah",
+                "date": "020",
+                "score": "10",
+                "comments": "Great for staycation!"
+            },
+            {
+                "name": "Lin",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Excellent staycation at Carlton Hotel Singapore"
+            },
+            {
+                "name": "Lia",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Convenient location, comfortable stay"
+            },
+            {
+                "name": "Nicholas",
+                "date": "020",
+                "score": "8.0",
+                "comments": "great stay and value for money"
+            },
+            {
+                "name": "Yip",
+                "date": "020",
+                "score": "10",
+                "comments": "Comfortable staycation"
+            },
+            {
+                "name": "Siti",
+                "date": "020",
+                "score": "10",
+                "comments": "Lovely hotel"
+            },
+            {
+                "name": "Tina",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Good stay with nearby eateries and malls"
+            },
+            {
+                "name": "Masood",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Chee",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Hafiz",
+                "date": "020",
+                "score": "10",
+                "comments": "Amazing stay"
+            }
+        ]
+    },
+    {
+        "name": "Hotel Marina Bay Sands (SG Clean)",
+        "location": "10 Bayfront Avenue, Marina Bay, 018956 Singapore, Singapore",
+        "breakdown_list": {
+            "Staff ": "9.1",
+            "Facilities ": "9.2",
+            "Cleanliness ": "9.4",
+            "Comfort ": "9.3",
+            "Value for money": "7.6",
+            "Location ": "9.5",
+            "Free WiFi": "8.4"
+        },
+        "rating": "9.0",
+        "comments": [
+            {
+                "name": "Allan",
+                "date": "19",
+                "score": "10",
+                "comments": "Perfect"
+            },
+            {
+                "name": "Prakash",
+                "date": "",
+                "score": "9.0",
+                "comments": "Was good"
+            },
+            {
+                "name": "Madhumita",
+                "date": "",
+                "score": "10",
+                "comments": "Excellent Staycation"
+            },
+            {
+                "name": "Sze",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Evelyn",
+                "date": "",
+                "score": "9.0",
+                "comments": "All was perfect except was a little dissapointed that there was no turn down in the evening when i went back into the ho"
+            },
+            {
+                "name": "Joshua",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Aron",
+                "date": "",
+                "score": "8.0",
+                "comments": "Services is great."
+            },
+            {
+                "name": "Stacey",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Winston",
+                "date": "",
+                "score": "10",
+                "comments": "Therapeutically Wonderful."
+            },
+            {
+                "name": "Esmarena",
+                "date": "",
+                "score": "8.0",
+                "comments": "Bathroom needs"
+            },
+            {
+                "name": "Poonam",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Nizrin",
+                "date": "",
+                "score": "8.0",
+                "comments": "Nice and balanced food!"
+            },
+            {
+                "name": "Kundan",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Niranjani",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Nurkhairina",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Feongwen",
+                "date": "021",
+                "score": "8.0",
+                "comments": "A memorable Chinese New Year of Ox"
+            },
+            {
+                "name": "Saurabh",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Nice staycation"
+            },
+            {
+                "name": "Aravind",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Karen",
+                "date": "21",
+                "score": "10",
+                "comments": "A marvellous treat during a time when we cannot travel."
+            },
+            {
+                "name": "Bhavinkumar",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Martin",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mr",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Mohamed",
+                "date": "020",
+                "score": "10",
+                "comments": "No 1 service hotel in Singapore"
+            },
+            {
+                "name": "Muhd",
+                "date": "020",
+                "score": "10",
+                "comments": "Best ever stay!"
+            },
+            {
+                "name": "Zubaidah",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Tei",
+                "date": "21",
+                "score": "10",
+                "comments": "excellent experience"
+            },
+            {
+                "name": "Maheswaran",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful view and pleasant stay"
+            },
+            {
+                "name": "Anna",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Melisa",
+                "date": "21",
+                "score": "10",
+                "comments": "We stayed in 2 connecting rooms with our 2 kids. All was perfect. We had breakfast and Dinner in the room and it was lov"
+            },
+            {
+                "name": "Jayve",
+                "date": "21",
+                "score": "8.0",
+                "comments": "A great staycation despite no fireworks!"
+            },
+            {
+                "name": "Tan",
+                "date": "21",
+                "score": "10",
+                "comments": "Definitely will come back for staycation."
+            },
+            {
+                "name": "Selamat",
+                "date": "020",
+                "score": "10",
+                "comments": "MBS is AWESOME. Came here Dec 2015 & Dec 2020 i'm back again for 2nd time celebrate my Anniversary."
+            },
+            {
+                "name": "Ivan",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Chua",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Uma",
+                "date": "020",
+                "score": "10",
+                "comments": "Great service & food."
+            },
+            {
+                "name": "May",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Great experience"
+            },
+            {
+                "name": "Sh8nn0n",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Masayu",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Marcella",
+                "date": "020",
+                "score": "9.0",
+                "comments": "It's an amazing short getaway, superb view and services. I wish we could stay longer."
+            },
+            {
+                "name": "Ang",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Ryan",
+                "date": "020",
+                "score": "9.0",
+                "comments": "A pleasant stay with a lovely view both from the room and the pool."
+            },
+            {
+                "name": "Flore",
+                "date": "020",
+                "score": "10",
+                "comments": "excellent hotel experience"
+            },
+            {
+                "name": "Jenny",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Livie",
+                "date": "020",
+                "score": "10",
+                "comments": "A trip you should definitely go once every year."
+            },
+            {
+                "name": "Local",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Most Iconic Singapore hotel"
+            },
+            {
+                "name": "Yeow",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Thedutchlady2",
+                "date": "020",
+                "score": "10",
+                "comments": "Value for money"
+            },
+            {
+                "name": "Leng",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Alison",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Rina_m",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Shicheng",
+                "date": "020",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Lay",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Enjoyable relaxing stay. Will go again."
+            },
+            {
+                "name": "Lavanya",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Erlina",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Jiunn",
+                "date": "020",
+                "score": "10",
+                "comments": "Pleasant surprise"
+            },
+            {
+                "name": "June",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Fantastic and exceeded my expectation."
+            },
+            {
+                "name": "Veron",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Stay was good, just that i would probably book directly with hotel rather than booking.com."
+            },
+            {
+                "name": "Molly",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Mikayla",
+                "date": "020",
+                "score": "9.0",
+                "comments": "The best staycation ever!\ud83d\ude03\ud83d\ude04\ud83d\ude01"
+            },
+            {
+                "name": "C",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nur",
+                "date": "020",
+                "score": "8.0",
+                "comments": "other than hunger satisfied by cup noodles from Jason, the view from the room is fantastic"
+            },
+            {
+                "name": "David",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Uma",
+                "date": "020",
+                "score": "10",
+                "comments": "Excellent service"
+            },
+            {
+                "name": "Ayu",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Enjoued and loved our staycation"
+            },
+            {
+                "name": "Ahim",
+                "date": "020",
+                "score": "10",
+                "comments": "Still a little time left we will see when d journey ends tomorrow"
+            },
+            {
+                "name": "Yuli",
+                "date": "020",
+                "score": "8.0",
+                "comments": "It\u2019s great but too expensive for a one night stay"
+            },
+            {
+                "name": "Ah",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Russell",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Its all about Location."
+            },
+            {
+                "name": "Sally",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Location"
+            },
+            {
+                "name": "Muhammad",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful stay"
+            },
+            {
+                "name": "Mr",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Second booking for extending Staycay - I liked the room so much"
+            },
+            {
+                "name": "Mr",
+                "date": "20",
+                "score": "10",
+                "comments": "A pure treat as a venue for my little three day working staycay getaway."
+            },
+            {
+                "name": "Riana",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Francis",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Evon",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Review of MBS"
+            },
+            {
+                "name": "Michael",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Puvanas",
+                "date": "20",
+                "score": "8.8",
+                "comments": "Unpleasent stay"
+            },
+            {
+                "name": "Sam",
+                "date": "20",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Sameer",
+                "date": "20",
+                "score": "10",
+                "comments": "Relaxing!"
+            },
+            {
+                "name": "Nurul",
+                "date": "20",
+                "score": "8.0",
+                "comments": "-"
+            },
+            {
+                "name": "M",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Great experience. For once. But the hotel lacks facilities - sports (only a gym and pool)."
+            },
+            {
+                "name": "Catherine",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Asiah",
+                "date": "20",
+                "score": "10",
+                "comments": "Wonderful experience"
+            },
+            {
+                "name": "Shanker",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Dean",
+                "date": "20",
+                "score": "10",
+                "comments": "Great stay and would certainly do it again."
+            },
+            {
+                "name": "Nur",
+                "date": "2020",
+                "score": "10",
+                "comments": "First time staying in MBS and it was an amazing experience"
+            },
+            {
+                "name": "Violet",
+                "date": "2020",
+                "score": "8.0",
+                "comments": "Luxurious stay with pleasant and professional staff"
+            },
+            {
+                "name": "Anne-marie",
+                "date": "2020",
+                "score": "10",
+                "comments": "would love to stay again :)"
+            },
+            {
+                "name": "Roger",
+                "date": "2020",
+                "score": "9.0",
+                "comments": "Nice view....shame about the boats"
+            },
+            {
+                "name": "Habsah",
+                "date": "2020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Jumairah",
+                "date": "0",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Tan",
+                "date": "2020",
+                "score": "9.0",
+                "comments": "Room price abit expensive. If can give some discount better"
+            },
+            {
+                "name": "Anita",
+                "date": "2020",
+                "score": "10",
+                "comments": "Awesome View & Customer Service"
+            },
+            {
+                "name": "Akash",
+                "date": "2020",
+                "score": "8.0",
+                "comments": "Great weekend"
+            },
+            {
+                "name": "Ddereeper",
+                "date": "2020",
+                "score": "10",
+                "comments": "Wonderful Staycation"
+            },
+            {
+                "name": "Anastasia",
+                "date": "0",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Priyanca",
+                "date": "0",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Edrin",
+                "date": "0",
+                "score": "8.0",
+                "comments": "thought ur deluxe king room have bathtub in it but sadly nope\ud83d\ude43"
+            },
+            {
+                "name": "Franco",
+                "date": "0",
+                "score": "8.0",
+                "comments": "Overall not bad understanding Covid 19 issues"
+            },
+            {
+                "name": "Joyce",
+                "date": "0",
+                "score": "9.0",
+                "comments": "Spacious and comfortable room"
+            }
+        ]
+    },
+    {
+        "name": "Hotel PARKROYAL COLLECTION Pickering, Singapore (SG Clean,Staycation Approved)",
+        "location": "3 Upper Pickering Street, Chinatown, 058289 Singapore, Singapore",
+        "breakdown_list": {
+            "Staff": "9.0",
+            "Facilities ": "9.1",
+            "Cleanliness ": "9.4",
+            "Comfort ": "9.4",
+            "Value for money": "8.2",
+            "Location ": "9.4",
+            "Free WiFi": "8.8"
+        },
+        "rating": "9.0",
+        "comments": [
+            {
+                "name": "Mnavamuganthan",
+                "date": "20",
+                "score": "10",
+                "comments": "Pleasant stay"
+            },
+            {
+                "name": "Yean",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Ck",
+                "date": "",
+                "score": "10",
+                "comments": "Always the best"
+            },
+            {
+                "name": "Joyce",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Barbara",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Juma",
+                "date": "",
+                "score": "10",
+                "comments": "Nice place for a staycation!"
+            },
+            {
+                "name": "Victor",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nur",
+                "date": "",
+                "score": "9.0",
+                "comments": "Me and my friends had a wonderful stay"
+            },
+            {
+                "name": "Kartina",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Danial",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Belzung",
+                "date": "",
+                "score": "10",
+                "comments": "Relaxing in the lush within the city!"
+            },
+            {
+                "name": "Heng",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful birthday staycation"
+            },
+            {
+                "name": "Amanda",
+                "date": "",
+                "score": "9.0",
+                "comments": "Great Get-Away"
+            },
+            {
+                "name": "Jules",
+                "date": "",
+                "score": "10",
+                "comments": "Comfortable and fuss-free 5-night stay"
+            },
+            {
+                "name": "Pb",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Rovina",
+                "date": "",
+                "score": "10",
+                "comments": "Love their junior suite!"
+            },
+            {
+                "name": "Christopher",
+                "date": "020",
+                "score": "9.0",
+                "comments": "A true garden hotel in the middle of the garden city! Must stay for any visitors of Singapore"
+            },
+            {
+                "name": "Jeremy",
+                "date": "",
+                "score": "9.0",
+                "comments": "comfortable."
+            },
+            {
+                "name": "Ayeza",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Noor",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Darren",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Perfect staycation"
+            },
+            {
+                "name": "Haslinda",
+                "date": "021",
+                "score": "8.0",
+                "comments": "overall stay is fine."
+            },
+            {
+                "name": "Chelsea",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Emma",
+                "date": "021",
+                "score": "10",
+                "comments": "Relaxing Stayca"
+            },
+            {
+                "name": "Jenny",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very pleasant,hence the second staycation"
+            },
+            {
+                "name": "Avinder",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Mark",
+                "date": "021",
+                "score": "10",
+                "comments": "EXCEPTIONAL!"
+            },
+            {
+                "name": "Nicole",
+                "date": "021",
+                "score": "10",
+                "comments": "Service was impeccable"
+            },
+            {
+                "name": "Terrence",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Would love to visit again and stay longer!"
+            },
+            {
+                "name": "Stephane",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Nice staycation"
+            },
+            {
+                "name": "Jenny",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Exactly what I wanted.A reasonably priced staycation hotel in a central location"
+            },
+            {
+                "name": "Rebecca",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Alex",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Yong",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Ruth",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Roderick",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Lycel",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Florida",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Chuah",
+                "date": "21",
+                "score": "8.0",
+                "comments": "I love the hotel but dislike the lime fd..."
+            },
+            {
+                "name": "Yuchih",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Fantastic Room and View"
+            },
+            {
+                "name": "Candice",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Amazing layout/structural finishings"
+            },
+            {
+                "name": "Callida",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Irnina",
+                "date": "21",
+                "score": "9.0",
+                "comments": "A great weekend getaway"
+            },
+            {
+                "name": "Chong",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "K",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Patricia",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Josef",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Water botle difficult yonopen"
+            },
+            {
+                "name": "Rosminah",
+                "date": "020",
+                "score": "9.0",
+                "comments": "A nice little staycay:)"
+            },
+            {
+                "name": "Gemma",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Excellent stay! We requested adjoining rooms and they were perfect- exceeded expectations."
+            },
+            {
+                "name": "Miss",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Excellent Service"
+            },
+            {
+                "name": "Andrea",
+                "date": "020",
+                "score": "10",
+                "comments": "staycation we\u2019ve been waiting for"
+            },
+            {
+                "name": "Joanne",
+                "date": "020",
+                "score": "10",
+                "comments": "It was a memorable staycation. What they gave us was more than what we expected."
+            },
+            {
+                "name": "Nicole",
+                "date": "020",
+                "score": "10",
+                "comments": "Great hotel with good location. Will recommend friends to book this hotel."
+            },
+            {
+                "name": "Peow",
+                "date": "020",
+                "score": "10",
+                "comments": "quiet, clean and comfort. staff are friendly and hotel restaurant food was good"
+            },
+            {
+                "name": "Jacintha",
+                "date": "020",
+                "score": "10",
+                "comments": "staycation in singapore"
+            },
+            {
+                "name": "Karen",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Seah",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Relaxing staycation"
+            },
+            {
+                "name": "Wee",
+                "date": "020",
+                "score": "10",
+                "comments": "A stay which my daughther loves alot."
+            },
+            {
+                "name": "Belinda",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Michael",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Easy access to wide variety of food"
+            },
+            {
+                "name": "Muf",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Great Room, Great Ambience, Great Location, So-so Breakfast"
+            },
+            {
+                "name": "Jia",
+                "date": "020",
+                "score": "10",
+                "comments": "I wanna STAY there for MY LIFE!"
+            },
+            {
+                "name": "Yit",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Yu",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Yvonne",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Geraldine",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Vincent",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Smooth check in, value for money"
+            },
+            {
+                "name": "Uma",
+                "date": "020",
+                "score": "10",
+                "comments": "Great rooms, food, staff and views"
+            },
+            {
+                "name": "Tweetybird",
+                "date": "020",
+                "score": "8.0",
+                "comments": "My 2day 1 night stacation"
+            },
+            {
+                "name": "Carolyn",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Great."
+            },
+            {
+                "name": "Teoh",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Samantha",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Jamillah",
+                "date": "020",
+                "score": "10",
+                "comments": "Relaxing staycation"
+            },
+            {
+                "name": "Alex",
+                "date": "020",
+                "score": "9.0",
+                "comments": "An unique design theme hotel that really allows guests to feel relaxed staying there."
+            },
+            {
+                "name": "Rohan",
+                "date": "020",
+                "score": "8.8",
+                "comments": "Just a quick getaway staycation."
+            },
+            {
+                "name": "Pearl",
+                "date": "020",
+                "score": "10",
+                "comments": "Wonderful staycation"
+            },
+            {
+                "name": "Jayjay",
+                "date": "020",
+                "score": "10",
+                "comments": "Great modern room with excellent view and slick amenities"
+            },
+            {
+                "name": "Nurul",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Anonymous",
+                "date": "020",
+                "score": "10",
+                "comments": "Perfect staycation"
+            },
+            {
+                "name": "Feipeng",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Derrick",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Value for money"
+            },
+            {
+                "name": "Melissa",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Junior Suite experience"
+            },
+            {
+                "name": "Teck",
+                "date": "020",
+                "score": "10",
+                "comments": "The stay was nothing short of amazing. We were within reached to all the amenities we love."
+            },
+            {
+                "name": "Terry",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Very High Quality Stay Boutique Hotel"
+            },
+            {
+                "name": "Yam",
+                "date": "020",
+                "score": "10",
+                "comments": "Good location"
+            },
+            {
+                "name": "Yam",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Good location"
+            },
+            {
+                "name": "Jayne",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Great place for family"
+            },
+            {
+                "name": "Michael",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Excellent design hotel"
+            },
+            {
+                "name": "Pia",
+                "date": "020",
+                "score": "10",
+                "comments": "overall great experience."
+            },
+            {
+                "name": "Yen",
+                "date": "020",
+                "score": "9.0",
+                "comments": "When swimming, they start to clean to pool? Not sure is it hygiene?"
+            },
+            {
+                "name": "Kia",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Lianne",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Good choice for a daycation or staycation."
+            },
+            {
+                "name": "Yj",
+                "date": "020",
+                "score": "8.8",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Nicoleta",
+                "date": "020",
+                "score": "10",
+                "comments": "Amazing staycation - beautiful hotel"
+            },
+            {
+                "name": "Lena",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Anniversary Staycation"
+            },
+            {
+                "name": "Chinkhor",
+                "date": "020",
+                "score": "9.0",
+                "comments": "One of the best hotel"
+            },
+            {
+                "name": "Julian",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Kennie",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Ainul",
+                "date": "020",
+                "score": "10",
+                "comments": "A satisfaction experience"
+            },
+            {
+                "name": "Ingrid",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            }
+        ]
+    },
+    {
+        "name": "Hotel The Fullerton Hotel Singapore (SG Clean, Staycation Approved)",
+        "location": "1 Fullerton Square, Marina Bay, 049178 Singapore, Singapore",
+        "breakdown_list": {
+            "Staff ": "9.2",
+            "Facilities ": "9.1",
+            "Cleanliness ": "9.4",
+            "Comfort ": "9.4",
+            "Value for money": "8.2",
+            "Location ": "9.6",
+            "Free WiFi ": "9.1"
+        },
+        "rating": "9.1",
+        "comments": [
+            {
+                "name": "Lucais",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceeded my expectations!"
+            },
+            {
+                "name": "Iffah",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "David",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Siti",
+                "date": "",
+                "score": "8.0",
+                "comments": "NA"
+            },
+            {
+                "name": "Janette",
+                "date": "",
+                "score": "9.0",
+                "comments": "Just perfect!"
+            },
+            {
+                "name": "Steven",
+                "date": "",
+                "score": "9.0",
+                "comments": "Still a nice classy place to spend a long weekend in town around the Bay Area"
+            },
+            {
+                "name": "Isolophilia",
+                "date": "",
+                "score": "9.0",
+                "comments": "An experience worthwhile! View from room was spectacular and definitely coming back!"
+            },
+            {
+                "name": "Muhammad",
+                "date": "",
+                "score": "10",
+                "comments": "The kids birthday and Anniversary"
+            },
+            {
+                "name": "Karen",
+                "date": "",
+                "score": "10",
+                "comments": "Rested well on my stay"
+            },
+            {
+                "name": "Raji",
+                "date": "",
+                "score": "10",
+                "comments": "It was a well spent staycay."
+            },
+            {
+                "name": "Dilli",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Lydia",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful and much needed staycation."
+            },
+            {
+                "name": "Dev",
+                "date": "",
+                "score": "10",
+                "comments": "A gem in the heart of Singapore"
+            },
+            {
+                "name": "Michelle",
+                "date": "21",
+                "score": "9.0",
+                "comments": "bday staycation"
+            },
+            {
+                "name": "Mrspeck",
+                "date": "021",
+                "score": "10",
+                "comments": "GREAT STAYCATION!!"
+            },
+            {
+                "name": "Danial",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Full of good memories."
+            },
+            {
+                "name": "Halimah",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Nevertheless, it was a good experience."
+            },
+            {
+                "name": "Joann",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Kathaminisa",
+                "date": "021",
+                "score": "10",
+                "comments": "Awesome and service from heart :)"
+            },
+            {
+                "name": "Alvin",
+                "date": "021",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Dominic",
+                "date": "021",
+                "score": "10",
+                "comments": "Amazing and super enjoyed staycation that I would definitely looking forward to book again."
+            },
+            {
+                "name": "Dr",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Muhammad",
+                "date": "021",
+                "score": "10",
+                "comments": "Good stay with a beautiful view"
+            },
+            {
+                "name": "Sk",
+                "date": "021",
+                "score": "8.0",
+                "comments": "A comfortable stay however do take caution as renovations are going on within the hotel"
+            },
+            {
+                "name": "Edith",
+                "date": "021",
+                "score": "10",
+                "comments": "Awesome customer service and beautiful balcony view"
+            },
+            {
+                "name": "Jun",
+                "date": "021",
+                "score": "9.0",
+                "comments": "awesome stay"
+            },
+            {
+                "name": "Jrdeanjr",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Torsten",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Lighthouse"
+            },
+            {
+                "name": "Israul",
+                "date": "21",
+                "score": "10",
+                "comments": "Awesome"
+            },
+            {
+                "name": "Bharatha",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Kamaludin",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Nabilah",
+                "date": "21",
+                "score": "10",
+                "comments": "Lovely stay which makes the hotel a must-stay for me."
+            },
+            {
+                "name": "Liyana",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Valerie",
+                "date": "21",
+                "score": "10",
+                "comments": "Awesome Break"
+            },
+            {
+                "name": "Thang",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Marc",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Jodie",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional vacation"
+            },
+            {
+                "name": "Brandon",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Jodie",
+                "date": "21",
+                "score": "10",
+                "comments": "An extraordinary experience"
+            },
+            {
+                "name": "Peter",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nicolaas",
+                "date": "21",
+                "score": "10",
+                "comments": "A very gracious restful New Year\u2019s stay !"
+            },
+            {
+                "name": "Lisa",
+                "date": "21",
+                "score": "10",
+                "comments": "A lovely night away"
+            },
+            {
+                "name": "Nur",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Anna",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Kitty",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Excellent except"
+            },
+            {
+                "name": "Hang",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Clinton",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Karen",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Jason",
+                "date": "21",
+                "score": "9.0",
+                "comments": "6 star"
+            },
+            {
+                "name": "Lizzy",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Great weekend stay!"
+            },
+            {
+                "name": "Caroline",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Festive Fullerton"
+            },
+            {
+                "name": "Bas",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Perfect stay in central area with excellent service"
+            },
+            {
+                "name": "Sarah",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Rosa",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Abdurrahman",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Mrs",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Good location."
+            },
+            {
+                "name": "Carolina",
+                "date": "020",
+                "score": "10",
+                "comments": "One of our favourite hotel in Singapore, service is always the same. A very reliable place to relax and feel the Christm"
+            },
+            {
+                "name": "Michelle",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful Christmas Staycation!"
+            },
+            {
+                "name": "R",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Clean and delightful rich with history"
+            },
+            {
+                "name": "Teng",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Great hotel"
+            },
+            {
+                "name": "Sreetharan",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Enjoyed the stay"
+            },
+            {
+                "name": "Zainab",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Chee",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Linda",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Nothing to fuss for this staycation. Just wana say a big thank you to the staff and management for their good work and e"
+            },
+            {
+                "name": "Priti",
+                "date": "020",
+                "score": "10",
+                "comments": "Luxury with attention.."
+            },
+            {
+                "name": "Huda",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "William",
+                "date": "020",
+                "score": "10",
+                "comments": "Enjoyable and memorable"
+            },
+            {
+                "name": "Sufyy",
+                "date": "020",
+                "score": "10",
+                "comments": "best customer service ive ever encountered! \ud83d\udc4d"
+            },
+            {
+                "name": "Kalvinder",
+                "date": "020",
+                "score": "10",
+                "comments": "Amazing and value off money"
+            },
+            {
+                "name": "Joyce",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Nice stay"
+            },
+            {
+                "name": "Renuga",
+                "date": "020",
+                "score": "10",
+                "comments": "Awesome"
+            },
+            {
+                "name": "Karen",
+                "date": "020",
+                "score": "8.0",
+                "comments": "A fabulous time at The Fullerton"
+            },
+            {
+                "name": "Karis",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Joko",
+                "date": "020",
+                "score": "10",
+                "comments": "Great service and excellent property"
+            },
+            {
+                "name": "Shimah",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Pleasant, but could be better"
+            },
+            {
+                "name": "Suet",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Birthday staycay"
+            },
+            {
+                "name": "Suthasinee",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mohammad",
+                "date": "020",
+                "score": "10",
+                "comments": "Solid hotel."
+            },
+            {
+                "name": "Kim",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Nice staycation"
+            },
+            {
+                "name": "Terry",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceeded expectation"
+            },
+            {
+                "name": "Jingjing",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Nurhanim",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Md",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Staycation (2 Adults, 1 Toddler)"
+            },
+            {
+                "name": "Jrdeanjr",
+                "date": "020",
+                "score": "10",
+                "comments": "A fantastic place to stay."
+            },
+            {
+                "name": "Lee",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Marsita",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Susan",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Fabulous location nestled amongst modern and historical architecture. Lovely walking areas."
+            },
+            {
+                "name": "Anonymous",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Anniversary at the Fullerton"
+            },
+            {
+                "name": "Muhammad",
+                "date": "20",
+                "score": "10",
+                "comments": "Brilliant"
+            },
+            {
+                "name": "Seri",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional Service & Memorable Stay"
+            },
+            {
+                "name": "Md",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Ching",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Caleb",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Ravi",
+                "date": "20",
+                "score": "10",
+                "comments": "Delightful experience"
+            },
+            {
+                "name": "Geraldine",
+                "date": "020",
+                "score": "9.0",
+                "comments": "nice room to stay in except there is no view"
+            },
+            {
+                "name": "Marallanera",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Awesome but next time will request for outdoor view"
+            },
+            {
+                "name": "Syah24",
+                "date": "020",
+                "score": "10",
+                "comments": "Awesome stay"
+            },
+            {
+                "name": "Benjamin",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Lee",
+                "date": "020",
+                "score": "10",
+                "comments": "Perfect stay in perfect location!"
+            },
+            {
+                "name": "Fauziah",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Happy"
+            }
+        ]
+    }
+]

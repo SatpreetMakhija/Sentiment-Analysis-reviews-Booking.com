@@ -1,0 +1,2466 @@
+[
+    {
+        "name": "Hotel Millennium Hilton Bangkok",
+        "location": "123 Charoennakorn Road, Klongtonsai, Klongsan, 10600 Bangkok, Thailand",
+        "breakdown_list": {
+            "Staff": "8.5",
+            "Facilities": "8.5",
+            "Cleanliness": "8.9",
+            "Comfort": "8.9",
+            "Value for money": "7.9",
+            "Location": "8.6",
+            "Free WiFi": "8.0"
+        },
+        "rating": "8.4",
+        "comments": [
+            {
+                "name": "Nur",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Stephen",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Preecha",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Thittayakorn",
+                "date": "",
+                "score": "9.0",
+                "comments": "Comfortable room with nice river view."
+            },
+            {
+                "name": "Tanako",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Supachok",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Wirote",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Roberto",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Bastian",
+                "date": "",
+                "score": "9.0",
+                "comments": "I love the swimming pool"
+            },
+            {
+                "name": "Luke",
+                "date": "021",
+                "score": "7.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Yoko",
+                "date": "",
+                "score": "9.0",
+                "comments": "Nice view"
+            },
+            {
+                "name": "El",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Busy, but worth it!"
+            },
+            {
+                "name": "Patrick",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Covid in Bangkok sucks. The staff were great"
+            },
+            {
+                "name": "Pipat",
+                "date": "21",
+                "score": "9.0",
+                "comments": "What's great? What's worse?"
+            },
+            {
+                "name": "Lim",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Pongchart",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Premium Staycation by the River"
+            },
+            {
+                "name": "Naroot",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Comfortable and Convenience"
+            },
+            {
+                "name": "Ungkoon",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Paul",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Amiel",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Amazing service, friendly and polite staff, and bang for the buck!"
+            },
+            {
+                "name": "Denis",
+                "date": "2020",
+                "score": "9.0",
+                "comments": "memorable and comfortable"
+            },
+            {
+                "name": "Ed",
+                "date": "2020",
+                "score": "9.0",
+                "comments": "Safe for staycation"
+            },
+            {
+                "name": "\u0e1e\u0e34\u0e13\u0e01\u0e32\u0e19\u0e15\u0e4c",
+                "date": "2020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Sirawit",
+                "date": "2020",
+                "score": "8.0",
+                "comments": "Nice location and comfortable"
+            },
+            {
+                "name": "James",
+                "date": "2020",
+                "score": "7.0",
+                "comments": "A very fun 3 day weekend for unbelievably cheap rates, great staff, great location."
+            },
+            {
+                "name": "Moltatip",
+                "date": "0",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Phylice",
+                "date": "0",
+                "score": "8.0",
+                "comments": "comfortable and price is good"
+            },
+            {
+                "name": "Chaluayrat",
+                "date": "0",
+                "score": "8.0",
+                "comments": "Nice, clean and good view."
+            },
+            {
+                "name": "Saisampan",
+                "date": "0",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Amy",
+                "date": "",
+                "score": "9.0",
+                "comments": "Lovely little stay-cation."
+            },
+            {
+                "name": "Jason",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Nantita",
+                "date": "",
+                "score": "7.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Paul",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Kevin",
+                "date": "",
+                "score": "7.0",
+                "comments": "Don\u2019t bother with breakfast here!"
+            },
+            {
+                "name": "Jean-jacques",
+                "date": "",
+                "score": "7.0",
+                "comments": "Good"
+            },
+            {
+                "name": "Chris",
+                "date": "",
+                "score": "9.0",
+                "comments": "Lovely stay, many thanks to the staff for the extra touches that made our birthday getaway special."
+            },
+            {
+                "name": "Nutpawe",
+                "date": "",
+                "score": "8.0",
+                "comments": "Everything is perfectly nice both view and location"
+            },
+            {
+                "name": "Becks37",
+                "date": "",
+                "score": "9.0",
+                "comments": "Nice bit of luxury"
+            },
+            {
+                "name": "Paul",
+                "date": "",
+                "score": "8.8",
+                "comments": "Good location"
+            },
+            {
+                "name": "Fatt",
+                "date": "020",
+                "score": "7.0",
+                "comments": "overall good"
+            },
+            {
+                "name": "Travel_belle",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Hotel was clean and a lovely sight after busy day. Would love to stay here again!"
+            },
+            {
+                "name": "Hyunyoung",
+                "date": "",
+                "score": "9.0",
+                "comments": "It was a good choice!"
+            },
+            {
+                "name": "Frederique",
+                "date": "020",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Ivan",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Very good."
+            },
+            {
+                "name": "Mrs",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Hilton prices not really hilton quality"
+            },
+            {
+                "name": "Cheng",
+                "date": "20",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Taek",
+                "date": "020",
+                "score": "9.2",
+                "comments": "\ud83d\ude4f\ud83c\uddf9\ud83c\uddednice hotel and comfortable but bit expensive"
+            },
+            {
+                "name": "Tomi",
+                "date": "020",
+                "score": "7.5",
+                "comments": "Good"
+            },
+            {
+                "name": "Kim",
+                "date": "020",
+                "score": "7.9",
+                "comments": "Good value and lovely staff"
+            },
+            {
+                "name": "Olga",
+                "date": "020",
+                "score": "7.5",
+                "comments": "Good"
+            },
+            {
+                "name": "Hannah",
+                "date": "020",
+                "score": "7.0",
+                "comments": "Lovely hotel however overpriced"
+            },
+            {
+                "name": "Fadzayi",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Our stay was beautiful, we would do it all over again at the same hotel."
+            },
+            {
+                "name": "Brian",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Excellent overall 12 hour visit."
+            },
+            {
+                "name": "Ty",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Not cheap but worth it"
+            },
+            {
+                "name": "Robert",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Friendly staff in excellent Location"
+            },
+            {
+                "name": "Siew",
+                "date": "20",
+                "score": "8.3",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Peter",
+                "date": "020",
+                "score": "7.0",
+                "comments": "Ok"
+            },
+            {
+                "name": "Robert",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Christian",
+                "date": "20",
+                "score": "7.0",
+                "comments": "Stay itself was good, but Callcenter stuff igonrant, unfriendly and rightous stupid."
+            },
+            {
+                "name": "David",
+                "date": "20",
+                "score": "7.0",
+                "comments": "Good overall \ud83d\ude0e"
+            },
+            {
+                "name": "Mindy",
+                "date": "20",
+                "score": "8.3",
+                "comments": "Decent services and great hospitality"
+            },
+            {
+                "name": "M",
+                "date": "019",
+                "score": "9.0",
+                "comments": "Enjoyed my brief stay"
+            },
+            {
+                "name": "Thomas",
+                "date": "20",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "David",
+                "date": "20",
+                "score": "9.0",
+                "comments": "enjoyed annual visits over many years."
+            },
+            {
+                "name": "Mark",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Julian",
+                "date": "20",
+                "score": "7.9",
+                "comments": "Good"
+            },
+            {
+                "name": "Justgrill",
+                "date": "20",
+                "score": "7.1",
+                "comments": "Great Prime and Convenient water frontage location"
+            },
+            {
+                "name": "Peter",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Bangkok Hilton style"
+            },
+            {
+                "name": "Pip",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Beautiful River and City views."
+            },
+            {
+                "name": "Juanita",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Adrian",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Keep coming Back"
+            },
+            {
+                "name": "Hans",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Brad",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Wei",
+                "date": "019",
+                "score": "7.0",
+                "comments": "Below expectation"
+            },
+            {
+                "name": "Richard",
+                "date": "20",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Jiajing",
+                "date": "019",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Sev",
+                "date": "019",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Constantinos",
+                "date": "019",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Maw",
+                "date": "019",
+                "score": "7.5",
+                "comments": "Good"
+            },
+            {
+                "name": "Shanna",
+                "date": "019",
+                "score": "9.6",
+                "comments": "Nice Hotel in BKK"
+            },
+            {
+                "name": "Shetty",
+                "date": "019",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Ferenc",
+                "date": "019",
+                "score": "8.8",
+                "comments": "Excellent hotel"
+            },
+            {
+                "name": "Olena",
+                "date": "019",
+                "score": "8.8",
+                "comments": "Excellent"
+            },
+            {
+                "name": "George",
+                "date": "019",
+                "score": "7.1",
+                "comments": "Good"
+            },
+            {
+                "name": "Kwong",
+                "date": "019",
+                "score": "7.0",
+                "comments": "It will be a better stay if the rooftop bar is larger and with a smoking area."
+            },
+            {
+                "name": "Mugilan",
+                "date": "019",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Moni",
+                "date": "019",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Mary",
+                "date": "019",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Niall",
+                "date": "019",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "M",
+                "date": "019",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Chin",
+                "date": "019",
+                "score": "9.0",
+                "comments": "Best"
+            },
+            {
+                "name": "Nicholas",
+                "date": "019",
+                "score": "7.1",
+                "comments": "Good"
+            },
+            {
+                "name": "Emma",
+                "date": "019",
+                "score": "9.0",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Jisoo",
+                "date": "019",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Emma",
+                "date": "019",
+                "score": "9.2",
+                "comments": "Great stay after travelling for 24 hours!"
+            },
+            {
+                "name": "Miklos",
+                "date": "019",
+                "score": "8.3",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Michael",
+                "date": "019",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Hossain",
+                "date": "019",
+                "score": "7.9",
+                "comments": "Good"
+            },
+            {
+                "name": "Shane",
+                "date": "019",
+                "score": "7.9",
+                "comments": "Millenium Hilton Bangkok"
+            },
+            {
+                "name": "Jknz",
+                "date": "019",
+                "score": "8.8",
+                "comments": "So long queue for check-in and had to wait for my turn standing in the line as if I am in the bank. Even in the bank the"
+            }
+        ]
+    },
+    {
+        "name": "Hotel InterContinental Bangkok, an IHG hotel",
+        "location": "973 Phloen Chit Road, Pathumwan, 10330 Bangkok, Thailand",
+        "breakdown_list": {
+            "Staff": "9.3",
+            "Facilities": "8.8",
+            "Cleanliness": "9.0",
+            "Comfort": "9.1",
+            "Value for money": "8.0",
+            "Location ": "9.5",
+            "Free WiFi ": "9.3"
+        },
+        "rating": "8.9",
+        "comments": [
+            {
+                "name": "Salma",
+                "date": "19",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Ronald",
+                "date": "",
+                "score": "9.0",
+                "comments": "Great value"
+            },
+            {
+                "name": "Kannikar",
+                "date": "",
+                "score": "10",
+                "comments": "The satff was very helpful"
+            },
+            {
+                "name": "Sergio",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Marc",
+                "date": "",
+                "score": "10",
+                "comments": "Relaxing quiet clean. Excellent."
+            },
+            {
+                "name": "Jens",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Excellent stay"
+            },
+            {
+                "name": "Cathlea",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Would come back for another staycation"
+            },
+            {
+                "name": "Sebastien",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Perfect for everything from check in till check out, food and service"
+            },
+            {
+                "name": "Hataichanok",
+                "date": "021",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Jorge",
+                "date": "021",
+                "score": "10",
+                "comments": "Excellent quality & location"
+            },
+            {
+                "name": "Kirsty",
+                "date": "020",
+                "score": "10",
+                "comments": "Amazing location"
+            },
+            {
+                "name": "Atch",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Asif",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional service and value for money"
+            },
+            {
+                "name": "Robert",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mark",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Asif",
+                "date": "020",
+                "score": "10",
+                "comments": "Not as good as the week prior"
+            },
+            {
+                "name": "Nipun",
+                "date": "020",
+                "score": "10",
+                "comments": "Super comfy when we are in downtown city"
+            },
+            {
+                "name": "Saleh",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Obaid",
+                "date": "20",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Md",
+                "date": "20",
+                "score": "8.0",
+                "comments": "enjoyable and comfortable."
+            },
+            {
+                "name": "Paul",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Sarah",
+                "date": "020",
+                "score": "10",
+                "comments": "Perfect, exceeded my expectations and the roof garden was lovely"
+            },
+            {
+                "name": "Thanh",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mallika",
+                "date": "20",
+                "score": "8.3",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Sue",
+                "date": "020",
+                "score": "8.3",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Kaye",
+                "date": "020",
+                "score": "10",
+                "comments": "Great stop over before flying home."
+            },
+            {
+                "name": "Yuni",
+                "date": "019",
+                "score": "9.0",
+                "comments": "Extremely helpful staffs what make the place standout"
+            },
+            {
+                "name": "Dana",
+                "date": "20",
+                "score": "8.0",
+                "comments": "The staff are very nice and welcoming & very generous in providing water and toiletries in the room"
+            },
+            {
+                "name": "Janet",
+                "date": "019",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Omar",
+                "date": "20",
+                "score": "9.2",
+                "comments": "Nice luxury hotel"
+            },
+            {
+                "name": "Badreya",
+                "date": "019",
+                "score": "10",
+                "comments": "Great Hotel !"
+            },
+            {
+                "name": "Russell",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Frank",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Alex5348",
+                "date": "20",
+                "score": "10",
+                "comments": "Excellent experience"
+            },
+            {
+                "name": "Janet",
+                "date": "20",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Jason",
+                "date": "20",
+                "score": "9.6",
+                "comments": "BKK Chit Lom"
+            },
+            {
+                "name": "Riyadh",
+                "date": "019",
+                "score": "9.6",
+                "comments": "Very good staff and very good location"
+            },
+            {
+                "name": "Alhooli",
+                "date": "019",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Ignacio",
+                "date": "019",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Deniss",
+                "date": "019",
+                "score": "10",
+                "comments": "Well, it would be nice to have possibilities to pay online, because one of our colleague had flight"
+            },
+            {
+                "name": "Rauda",
+                "date": "019",
+                "score": "9.2",
+                "comments": "Excellent hotel with very high rate clean and helpful staff"
+            },
+            {
+                "name": "Abdulla",
+                "date": "019",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mohamed",
+                "date": "019",
+                "score": "9.2",
+                "comments": "Great location, helpful staff, nice rooms"
+            },
+            {
+                "name": "Siddiq",
+                "date": "019",
+                "score": "8.8",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Siddiq",
+                "date": "019",
+                "score": "8.8",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Annette",
+                "date": "019",
+                "score": "10",
+                "comments": "The only place to stay in Bangkok"
+            },
+            {
+                "name": "Ahmad",
+                "date": "019",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Ko",
+                "date": "19",
+                "score": "10",
+                "comments": "Excellent choice for Hotel searching customers, pls stay right now, It will be happy"
+            },
+            {
+                "name": "Mohammed",
+                "date": "019",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Khalifa",
+                "date": "019",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Fahad",
+                "date": "19",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Noura",
+                "date": "19",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Ibanihammad",
+                "date": "19",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Norman",
+                "date": "19",
+                "score": "9.6",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Faisal",
+                "date": "19",
+                "score": "8.8",
+                "comments": "Nice hotel in nice area"
+            },
+            {
+                "name": "Tay",
+                "date": "19",
+                "score": "10",
+                "comments": "Wonderful Service and Excellent Location"
+            },
+            {
+                "name": "Tasha",
+                "date": "2019",
+                "score": "10",
+                "comments": "Amazing, will definitely come again for my Bangkok Trip."
+            },
+            {
+                "name": "Dennie",
+                "date": "19",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Siddiq",
+                "date": "19",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Hong",
+                "date": "2019",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Gerhard",
+                "date": "2019",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Khadeeja",
+                "date": "2019",
+                "score": "7.5",
+                "comments": "Good"
+            },
+            {
+                "name": "Lindsay",
+                "date": "2019",
+                "score": "8.3",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Theresa",
+                "date": "2019",
+                "score": "7.5",
+                "comments": "Good"
+            },
+            {
+                "name": "Danny",
+                "date": "2019",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mahir",
+                "date": "2019",
+                "score": "8.3",
+                "comments": "Excellent location, a bit dated"
+            },
+            {
+                "name": "Ahmed",
+                "date": "9",
+                "score": "7.5",
+                "comments": "Good"
+            },
+            {
+                "name": "Groho",
+                "date": "2019",
+                "score": "9.6",
+                "comments": "Everything is perfect"
+            },
+            {
+                "name": "Abdulbaset",
+                "date": "2019",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Malaka",
+                "date": "9",
+                "score": "9.6",
+                "comments": "Fantastic location in the heart of bsngkok"
+            },
+            {
+                "name": "Paul",
+                "date": "9",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Abdelrahman",
+                "date": "9",
+                "score": "7.5",
+                "comments": "I like Bangkok at this time of the year and plenty of shopping choices"
+            },
+            {
+                "name": "Nooniena",
+                "date": "9",
+                "score": "9.6",
+                "comments": "If you are looking for luxurious and best location of hotel to stay in downtown BKK, you're at it !"
+            },
+            {
+                "name": "Supphathat",
+                "date": "9",
+                "score": "10",
+                "comments": "Pretty good for a wedding party, stayed in."
+            },
+            {
+                "name": "Misk-f18",
+                "date": "",
+                "score": "9.6",
+                "comments": "Best for family and shopping \ud83d\udecd"
+            },
+            {
+                "name": "Noor",
+                "date": "9",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Duha",
+                "date": "9",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Shaikha",
+                "date": "9",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Musabah",
+                "date": "9",
+                "score": "8.3",
+                "comments": "Just perfect I enjoyed it to the maximum"
+            },
+            {
+                "name": "Bader",
+                "date": "9",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Muna",
+                "date": "9",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mariam",
+                "date": "",
+                "score": "8.3",
+                "comments": "Very Good"
+            },
+            {
+                "name": "\u0639\u0628\u064a\u062f",
+                "date": "9",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Adrian",
+                "date": "9",
+                "score": "7.5",
+                "comments": "Great! Will definitely return to the hotel in my next trip."
+            },
+            {
+                "name": "Fmrq8",
+                "date": "9",
+                "score": "7.9",
+                "comments": "Good"
+            },
+            {
+                "name": "Fahad",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Younis",
+                "date": "",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Khalid",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Andrew",
+                "date": "",
+                "score": "7.5",
+                "comments": "good"
+            },
+            {
+                "name": "Rashed",
+                "date": "",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "(aaryan)",
+                "date": "",
+                "score": "7.5",
+                "comments": "good location"
+            },
+            {
+                "name": "Shihab",
+                "date": "",
+                "score": "7.9",
+                "comments": "Satisfactory"
+            },
+            {
+                "name": "Yousif",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Aleedo",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Maha",
+                "date": "",
+                "score": "7.5",
+                "comments": "Good"
+            },
+            {
+                "name": "Shihab",
+                "date": "",
+                "score": "9.2",
+                "comments": "Friendly staff, and excellent brakefast"
+            },
+            {
+                "name": "Yahya",
+                "date": "",
+                "score": "7.5",
+                "comments": "Excellent hotel with very bad breakfast"
+            },
+            {
+                "name": "Alice",
+                "date": "",
+                "score": "10",
+                "comments": "As usual a wonderful stay"
+            },
+            {
+                "name": "Marwa",
+                "date": "",
+                "score": "8.3",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Ali",
+                "date": "",
+                "score": "10",
+                "comments": "Excellent"
+            }
+        ]
+    },
+    {
+        "name": "Hotel Centre Point Sukhumvit 10",
+        "location": "39, Sukhumvit Soi 10, Sukhumvit Road, Klongtoey, Khlong Toei, 10110 Bangkok, Thailand",
+        "breakdown_list": {
+            "Staff": "8.9",
+            "Facilities": "8.5",
+            "Cleanliness": "8.8",
+            "Comfort": "8.8",
+            "Value for money": "8.4",
+            "Location": "8.3",
+            "Free WiFi": "8.3"
+        },
+        "rating": "8.6",
+        "comments": [
+            {
+                "name": "Aparna",
+                "date": "019",
+                "score": "10",
+                "comments": "Good business stay"
+            },
+            {
+                "name": "Raymond",
+                "date": "",
+                "score": "9.0",
+                "comments": "Satisfied to the point that I will be returning for a longer stay with my family"
+            },
+            {
+                "name": "Krystal",
+                "date": "",
+                "score": "9.0",
+                "comments": "Over all it was a good place for family or even alone. Close to shopping malls and Sky train"
+            },
+            {
+                "name": "Lira",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Ian",
+                "date": "",
+                "score": "8.0",
+                "comments": "Our stay was as expected and enjoyable. I must commend receptionist Ms Alice on evening duty on 10/3"
+            },
+            {
+                "name": "Jeffrey",
+                "date": "",
+                "score": "9.0",
+                "comments": "excellent resort"
+            },
+            {
+                "name": "Johannes",
+                "date": "",
+                "score": "10",
+                "comments": "Absolutely great place to stay in Bangkok, highly recommended"
+            },
+            {
+                "name": "Daniel",
+                "date": "",
+                "score": "10",
+                "comments": "Best place to stay in Bangkok"
+            },
+            {
+                "name": "Charles",
+                "date": "021",
+                "score": "9.0",
+                "comments": "An excellent property to stay in the heart of Bangkok"
+            },
+            {
+                "name": "Francis",
+                "date": "021",
+                "score": "10",
+                "comments": "My Valentine\u2019s Day stay!\u2764\ufe0f"
+            },
+            {
+                "name": "Deus",
+                "date": "021",
+                "score": "10",
+                "comments": "Great value hotel"
+            },
+            {
+                "name": "Chris",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Charles",
+                "date": "021",
+                "score": "9.0",
+                "comments": "An excellent property to stay in the heart of Bangkok"
+            },
+            {
+                "name": "Rayjay_1990",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Everything was great, I enjoyed staying here, hope to go there soon."
+            },
+            {
+                "name": "Lester",
+                "date": "021",
+                "score": "10",
+                "comments": "Great place!"
+            },
+            {
+                "name": "Yongwoo",
+                "date": "21",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Yongwoo",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Lester",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Ya\u015far",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Andrew",
+                "date": "020",
+                "score": "10",
+                "comments": "Stop over"
+            },
+            {
+                "name": "Lester",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Dudley",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Ian",
+                "date": "020",
+                "score": "8.0",
+                "comments": "A very comfortable hotel in a great location to allow you to explore Sukhumvit and Bangkok"
+            },
+            {
+                "name": "Julien",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Very good"
+            },
+            {
+                "name": "Similan",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Louise",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Situated by the park!"
+            },
+            {
+                "name": "John",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Keith",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Good Experience"
+            },
+            {
+                "name": "Raymond",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mohammad",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Very clean. Extremely helpful staff"
+            },
+            {
+                "name": "Lol",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Good stay"
+            },
+            {
+                "name": "Narin",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Rodney",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Stephen",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Elizaveta",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Sharon",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Mohammad",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Very nice staff, well maintained"
+            },
+            {
+                "name": "Wenneke7",
+                "date": "20",
+                "score": "10",
+                "comments": "Amazing place for a few nights bangkok"
+            },
+            {
+                "name": "Calum",
+                "date": "2020",
+                "score": "10",
+                "comments": "Super upgrade, thanks COVID."
+            },
+            {
+                "name": "Patrick",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Evan",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Jake",
+                "date": "2020",
+                "score": "10",
+                "comments": "Great location, good value, amazing view"
+            },
+            {
+                "name": "Bobby",
+                "date": "0",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Joost",
+                "date": "2020",
+                "score": "9.0",
+                "comments": "Comfortable, clean, quiet, efficient staff"
+            },
+            {
+                "name": "Haissam",
+                "date": "2020",
+                "score": "9.0",
+                "comments": "wonderful stay"
+            },
+            {
+                "name": "Punnida",
+                "date": "0",
+                "score": "9.0",
+                "comments": "Appreciated so much"
+            },
+            {
+                "name": "Julia",
+                "date": "2020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Sasa",
+                "date": "2020",
+                "score": "9.0",
+                "comments": "Only 6 people can use swimming pool so you could be out of luck, or need to wait till next day."
+            },
+            {
+                "name": "Joost",
+                "date": "2020",
+                "score": "10",
+                "comments": "Excellent stay, great value for money"
+            },
+            {
+                "name": "Sasa",
+                "date": "0",
+                "score": "8.0",
+                "comments": "Good stay...but construction next door very loud machinery at 6:00am hard to sleep"
+            },
+            {
+                "name": "Insrithong",
+                "date": "0",
+                "score": "10",
+                "comments": "Comfortable stay"
+            },
+            {
+                "name": "Maxence",
+                "date": "0",
+                "score": "10",
+                "comments": "All good"
+            },
+            {
+                "name": "Jonathan",
+                "date": "0",
+                "score": "9.0",
+                "comments": "great"
+            },
+            {
+                "name": "Brian",
+                "date": "0",
+                "score": "9.0",
+                "comments": "Nice hotel, could do with a bar"
+            },
+            {
+                "name": "Noah",
+                "date": "",
+                "score": "10",
+                "comments": "Great location, extremely clean staff is very nice, rooms are welll equipped, see you next year!"
+            },
+            {
+                "name": "Maria",
+                "date": "",
+                "score": "10",
+                "comments": "Great Hotel"
+            },
+            {
+                "name": "James",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Aurelie",
+                "date": "",
+                "score": "10",
+                "comments": "I recommend ! Very clean, friendly and efficient staff. Near Terminal 21."
+            },
+            {
+                "name": "Dararat",
+                "date": "",
+                "score": "9.2",
+                "comments": "The staffs are nice and helpful."
+            },
+            {
+                "name": "Claudia",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Steven",
+                "date": "",
+                "score": "10",
+                "comments": "Above Expectations"
+            },
+            {
+                "name": "Peter",
+                "date": "",
+                "score": "8.0",
+                "comments": "Great hotel"
+            },
+            {
+                "name": "Eric",
+                "date": "",
+                "score": "9.0",
+                "comments": "Good find"
+            },
+            {
+                "name": "Ivan",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Ivan",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Ivan",
+                "date": "",
+                "score": "10",
+                "comments": "Super"
+            },
+            {
+                "name": "Ivan",
+                "date": "",
+                "score": "10",
+                "comments": "Best Position in Bangkok"
+            },
+            {
+                "name": "Norma",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Brandin",
+                "date": "020",
+                "score": "10",
+                "comments": "Excellent hotel and the staff was great"
+            },
+            {
+                "name": "Pung",
+                "date": "",
+                "score": "9.0",
+                "comments": "Pleasant stay for business or tourist travellers."
+            },
+            {
+                "name": "Vigdis",
+                "date": "",
+                "score": "10",
+                "comments": "My home away from home"
+            },
+            {
+                "name": "Mikhail",
+                "date": "",
+                "score": "8.8",
+                "comments": "Quite good for a short stay in Bangkok"
+            },
+            {
+                "name": "Yee",
+                "date": "",
+                "score": "8.3",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Paul",
+                "date": "",
+                "score": "9.0",
+                "comments": "High standards of customer service, throughout. The hotel was clean, calm and well organised."
+            },
+            {
+                "name": "Alexander",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Tanmay",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very nice property"
+            },
+            {
+                "name": "Walter",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Steve",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Wayne",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Olaf",
+                "date": "020",
+                "score": "9.0",
+                "comments": "I will come back."
+            },
+            {
+                "name": "Pui",
+                "date": "020",
+                "score": "7.9",
+                "comments": "Good"
+            },
+            {
+                "name": "Maria",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Marie",
+                "date": "20",
+                "score": "10",
+                "comments": "courtesy transport to Asok a huge plus"
+            },
+            {
+                "name": "Popescu",
+                "date": "020",
+                "score": "9.2",
+                "comments": "Very nice hotel"
+            },
+            {
+                "name": "Rachelg",
+                "date": "20",
+                "score": "9.0",
+                "comments": "good value for money"
+            },
+            {
+                "name": "Colin",
+                "date": "20",
+                "score": "7.5",
+                "comments": "Good"
+            },
+            {
+                "name": "Monther",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Samina",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Perry",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Peter",
+                "date": "20",
+                "score": "7.5",
+                "comments": "Good"
+            },
+            {
+                "name": "Nadia",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Sarah",
+                "date": "20",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Luke",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Andreas",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Brief stay"
+            },
+            {
+                "name": "Harmeet",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Dale",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "\u041f\u0435\u0442\u044f",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Great place in the heart of Bangkok"
+            },
+            {
+                "name": "Mohammed",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Jeni",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Wen",
+                "date": "019",
+                "score": "9.0",
+                "comments": "The room is not new like the photos but it's a good place for stay with family of small children."
+            }
+        ]
+    },
+    {
+        "name": "Hotel Royal Orchid Sheraton Hotel and Towers",
+        "location": "2 Charoen Krung Road Soi 30 (Captain Bush Lane), Bang Rak, 10500 Bangkok, Thailand",
+        "breakdown_list": {
+            "Staff": "8.9",
+            "Facilities": "8.6",
+            "Cleanliness": "8.9",
+            "Comfort": "8.9",
+            "Value for money": "8.1",
+            "Location ": "9.1",
+            "Free WiFi": "8.5"
+        },
+        "rating": "8.6",
+        "comments": [
+            {
+                "name": "Titinant",
+                "date": "",
+                "score": "10",
+                "comments": "Great promo"
+            },
+            {
+                "name": "Nadsupa",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Kamonchai",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Staffs are good service mind set, room is good and clean. Nice location for riversides view hotel."
+            },
+            {
+                "name": "Johannes",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Dr",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Joshua",
+                "date": "021",
+                "score": "10",
+                "comments": "Brilliant hotel"
+            },
+            {
+                "name": "Paranago",
+                "date": "020",
+                "score": "8.3",
+                "comments": "Worth it for the river views"
+            },
+            {
+                "name": "Harshida",
+                "date": "021",
+                "score": "8.0",
+                "comments": "Fabulous"
+            },
+            {
+                "name": "Lee",
+                "date": "21",
+                "score": "8.0",
+                "comments": "Quick stop off as wife wanted a bath"
+            },
+            {
+                "name": "Stephanie",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Reinhard",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Emma",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Katie",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Perfect."
+            },
+            {
+                "name": "Korrawan",
+                "date": "21",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Oh",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Wattana",
+                "date": "020",
+                "score": "10",
+                "comments": "excellent"
+            },
+            {
+                "name": "Terence",
+                "date": "20",
+                "score": "10",
+                "comments": "Nice hotel, comfy room, lovely staffs and good location\ud83d\udc4d"
+            },
+            {
+                "name": "Dudsadee",
+                "date": "2020",
+                "score": "8.0",
+                "comments": "Ideal location for old town Bangkok traveling and the classic boat transportation in the Bangkok"
+            },
+            {
+                "name": "Thome",
+                "date": "2020",
+                "score": "10",
+                "comments": "come back"
+            },
+            {
+                "name": "Daniel",
+                "date": "2020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Maurizio",
+                "date": "2020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Ekaterina",
+                "date": "2020",
+                "score": "8.0",
+                "comments": "Great pool, great view"
+            },
+            {
+                "name": "Pathomporn",
+                "date": "2020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Narudee",
+                "date": "0",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Hospitality",
+                "date": "0",
+                "score": "8.0",
+                "comments": "Nice hotel, great concierge, super restaurant"
+            },
+            {
+                "name": "Esaaveni",
+                "date": "0",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Shufen",
+                "date": "0",
+                "score": "10",
+                "comments": "Room smell no good but view nice, location excellent."
+            },
+            {
+                "name": "Kritapath",
+                "date": "0",
+                "score": "9.0",
+                "comments": "Nice"
+            },
+            {
+                "name": "James",
+                "date": "0",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Katie",
+                "date": "",
+                "score": "10",
+                "comments": "Super comfy, great location, friendly staff"
+            },
+            {
+                "name": "Prapaijit",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Duangnapha",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Alisha",
+                "date": "",
+                "score": "9.0",
+                "comments": "Staycation delight"
+            },
+            {
+                "name": "Simon",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Worakorn",
+                "date": "",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Trish",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Martin",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Martin",
+                "date": "",
+                "score": "10",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Yuliia",
+                "date": "",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Claudetta",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Omer",
+                "date": "",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Jane",
+                "date": "",
+                "score": "8.0",
+                "comments": "Good location with shuttle boat to the shopping centre."
+            },
+            {
+                "name": "Jose",
+                "date": "",
+                "score": "9.2",
+                "comments": "Amazing location and staff"
+            },
+            {
+                "name": "Eric",
+                "date": "020",
+                "score": "10",
+                "comments": "Great relaxing stay"
+            },
+            {
+                "name": "Eric",
+                "date": "",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Lenz",
+                "date": "20",
+                "score": "9.6",
+                "comments": "Top 5 Star Hotel I can highly recommend !"
+            },
+            {
+                "name": "Andrew",
+                "date": "",
+                "score": "9.2",
+                "comments": "Great value"
+            },
+            {
+                "name": "Richard",
+                "date": "020",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Donna",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Rui",
+                "date": "",
+                "score": "8.0",
+                "comments": "money for the value Hotel"
+            },
+            {
+                "name": "Francesca",
+                "date": "",
+                "score": "9.0",
+                "comments": "Great"
+            },
+            {
+                "name": "Railton",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Paul",
+                "date": "020",
+                "score": "10",
+                "comments": "Stay at Royal Orchard Sheraton!!!! It's so awesome to stay on the River!!"
+            },
+            {
+                "name": "Laura",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Perfect location and comfort."
+            },
+            {
+                "name": "Mike",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Perfect."
+            },
+            {
+                "name": "Madelief",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "John",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Rudolf",
+                "date": "020",
+                "score": "10",
+                "comments": "Execellent Service & Location"
+            },
+            {
+                "name": "Alastair",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Great short stay place for Bangkok"
+            },
+            {
+                "name": "Martin",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Joe",
+                "date": "020",
+                "score": "9.6",
+                "comments": "Great stay"
+            },
+            {
+                "name": "Patitha",
+                "date": "020",
+                "score": "8.3",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Louise",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Amazing views , free hotel boat. Didnt opt for breakfast. Reception very good.Short stay but sweet."
+            },
+            {
+                "name": "David",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Great hotel in Bangkok"
+            },
+            {
+                "name": "Alan",
+                "date": "020",
+                "score": "10",
+                "comments": "Apart from the above we had an enjoyable stay"
+            },
+            {
+                "name": "Dianne",
+                "date": "020",
+                "score": "7.5",
+                "comments": "Lovely stay"
+            },
+            {
+                "name": "Marta",
+                "date": "019",
+                "score": "9.0",
+                "comments": "Very good location and pleasant room, would definitely stay there again."
+            },
+            {
+                "name": "Christopher",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Gary",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Doug",
+                "date": "020",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Christian",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Francis",
+                "date": "020",
+                "score": "8.0",
+                "comments": "Good value for your money with convenient shuttle on the river."
+            },
+            {
+                "name": "Jane",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Daniela",
+                "date": "20",
+                "score": "9.6",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Mohamed",
+                "date": "020",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Vadim",
+                "date": "020",
+                "score": "8.8",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Richard",
+                "date": "20",
+                "score": "10",
+                "comments": "Excelent would not want to stay any where else & will try to use your hotel group in future Thank yo"
+            },
+            {
+                "name": "Eren",
+                "date": "020",
+                "score": "10",
+                "comments": "Great hotel would definitely stay again for sure"
+            },
+            {
+                "name": "Richard",
+                "date": "020",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Richard",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "V",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Rooms looked very overwhelmed with heavy wood, looked dated."
+            },
+            {
+                "name": "Claire",
+                "date": "20",
+                "score": "10",
+                "comments": "A very enjoyable and relaxing stay."
+            },
+            {
+                "name": "John",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Beverley",
+                "date": "20",
+                "score": "10",
+                "comments": "Great hotel location is fantastic"
+            },
+            {
+                "name": "E",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "David",
+                "date": "20",
+                "score": "8.0",
+                "comments": "Great base for river and palace."
+            },
+            {
+                "name": "Monchita",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Carl",
+                "date": "20",
+                "score": "8.0",
+                "comments": "An enjoyable Experience"
+            },
+            {
+                "name": "Peter",
+                "date": "20",
+                "score": "9.0",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Colin",
+                "date": "20",
+                "score": "8.8",
+                "comments": "Excellent"
+            },
+            {
+                "name": "Seral",
+                "date": "20",
+                "score": "9.2",
+                "comments": "Wonderful"
+            },
+            {
+                "name": "Kate",
+                "date": "20",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Anthony",
+                "date": "019",
+                "score": "10",
+                "comments": "Exceptional"
+            },
+            {
+                "name": "Jody",
+                "date": "20",
+                "score": "10",
+                "comments": "Great hotel."
+            },
+            {
+                "name": "Anthony",
+                "date": "019",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Sue",
+                "date": "019",
+                "score": "8.0",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Melissa",
+                "date": "20",
+                "score": "10",
+                "comments": "Great location, wonderful staff, needs more outlets!"
+            },
+            {
+                "name": "Harry",
+                "date": "20",
+                "score": "8.3",
+                "comments": "Very Good"
+            },
+            {
+                "name": "Philip",
+                "date": "019",
+                "score": "10",
+                "comments": "First stay (from US) with new Thai GIRLFRIEND. To WOW"
+            },
+            {
+                "name": "Lauramcnamara",
+                "date": "019",
+                "score": "10",
+                "comments": "Great location, comfortable and good facilities"
+            }
+        ]
+    }
+]
