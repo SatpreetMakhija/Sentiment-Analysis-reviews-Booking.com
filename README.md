@@ -4,5 +4,7 @@ DMW lab 3
 
 Scraper.py requires the following modules:
 - selenium
--bs4
--requests
+- bs4
+- requests
+
+
