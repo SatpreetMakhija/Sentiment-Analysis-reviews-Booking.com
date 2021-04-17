@@ -10,6 +10,7 @@ import numpy as np
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import statistics
 import csv
+<<<<<<< HEAD
 
 
 #Fetching the link to the json data
@@ -77,3 +78,7 @@ file_address = current_path + '/dataset/sentiment/bangkok_sentiment.csv'
 file = pd.read_csv(file_address)
 file.to_csv(file_address, header=header_names, index=False)
 
+=======
+import pandas as pd
+import 
+>>>>>>> feaa7e22bca0b9bc33be8fdc15a7da8a1fc3f859
