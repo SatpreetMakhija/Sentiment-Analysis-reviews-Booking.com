@@ -2,7 +2,10 @@ import plotly.graph_objects as go
 import pandas as pd
 
 # Read csv data
-dataFrame = pd.read_csv("./dataset/sentiment/bangkok_sentiment.csv")
+# dataFrame = pd.read_csv("./dataset/sentiment/bangkok_sentiment.csv")
+
+dataFrame = pd.read_csv("bangkok_sentiment_new.csv")
+
 # Create initial arrays for hotels score
 actual_hotel_score = list()
 polarity_hotel_score = list()

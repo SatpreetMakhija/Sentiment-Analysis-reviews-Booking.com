@@ -10,7 +10,6 @@ import numpy as np
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import statistics
 import csv
-<<<<<<< HEAD
 
 
 #Fetching the link to the json data
@@ -59,26 +58,24 @@ print("New hotel details are ")
 print(new_hotel_details)
 print(len(new_hotel_details))
 
-to_dump_json_details = json.dumps(new_hotel_details, indent = 4)   
-write_location = current_path + '/dataset/sentiment/bangkok_sentiment.json' 
-with open(write_location, 'w') as file:
-    file.write(to_dump_json_details) 
-    file.close()
+# to_dump_json_details = json.dumps(new_hotel_details, indent = 4)   
+# write_location = current_path + '/bangkok_sentiment.json' 
+# with open(write_location, 'w') as file:
+#     file.write(to_dump_json_details) 
+#     file.close()
 
-write_location = current_path + '/dataset/sentiment/bangkok_sentiment.csv'
+# write_location = current_path + '/dataset/sentiment/bangkok_sentiment.csv'
+write_location = current_path + '/bangkok_sentiment_new.csv'
+
 with open(write_location, 'w', newline = '') as file:
     w = csv.writer(file)
     w.writerows(new_hotel_details)
     file.close()
 
-#adding header names to the csv file just created. 
-header_names = ["name", "score", "polarity score", "location"]
-dw = csv.DictWriter(file, delimiter = ',', fieldnames=header_names)
-file_address = current_path + '/dataset/sentiment/bangkok_sentiment.csv'
-file = pd.read_csv(file_address)
-file.to_csv(file_address, header=header_names, index=False)
+# #adding header names to the csv file just created. 
+# header_names = ["name", "score", "polarity score", "location"]
+# dw = csv.DictWriter(file, delimiter = ',', fieldnames=header_names)
+# file_address = current_path + '/dataset/sentiment/bangkok_sentiment.csv'
+# file = pd.read_csv(file_address)
+# file.to_csv(file_address, header=header_names, index=False)
 
-=======
-import pandas as pd
-import 
->>>>>>> feaa7e22bca0b9bc33be8fdc15a7da8a1fc3f859
