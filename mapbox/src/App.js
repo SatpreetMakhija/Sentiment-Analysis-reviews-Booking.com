@@ -82,8 +82,8 @@ const onSelectCity = useCallback(({longitude, latitude}) => {
       {hotelData.map((hotel, index) =>(
         <Marker 
           key ={index}
-          latitude = {parseFloat(hotel[2])}
-          longitude = {parseFloat(hotel[3])}
+          latitude = {parseFloat(hotel[4])}
+          longitude = {parseFloat(hotel[5])}
         >
             <img
               src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678111-map-marker-512.png"
@@ -96,16 +96,19 @@ const onSelectCity = useCallback(({longitude, latitude}) => {
         </Marker>      
       ))}
       {selectHotel ? (
-        <Popup latitude={parseFloat(selectHotel[2])} longitude={parseFloat(selectHotel[3])}
+        <Popup latitude={parseFloat(selectHotel[4])} longitude={parseFloat(selectHotel[5])}
         onClose = {() => {
           setSelectHotel(null)
         }}
         
         > 
           <div className="pop_up"> 
+            <div className="image_title"> 
               <h3>{selectHotel[0]}</h3>
+              {/* <img className = "hotel_image" src={selectHotel[6]} alt="BigCo Inc. logo"/> */}
+            </div>
               <hr></hr>
-              <p>{selectHotel[1]}</p>
+              <p>{selectHotel[3]}</p>
           </div>
 
         </Popup> 

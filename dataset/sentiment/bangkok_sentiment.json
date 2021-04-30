@@ -1,122 +1,182 @@
 [
     [
-        "Inn Rambuttri Village Plaza",
-        7.7,
-        8.338,
-        "95 Soi Ram Buttri, Chakkra Phong Road, Phra Nakorn, 10200 Bangkok, Thailand"
-    ],
-    [
-        "Apartment 3 Bedroom Apartment at Sukhumvi",
-        9.4,
-        9.1105,
-        "Citismart Condominium, Sukhumvit Soi 18, Khlong Toei, 10110 Bangkok, Thailand"
-    ],
-    [
-        " Century Park ",
+        "Hotel Evergreen Place Siam by UHG",
         8.4,
-        6.235999999999999,
-        "9 Ratchaprarop Rd., Pratunam-Victory Monument, 10400 Bangkok, Thailand"
+        3.7385,
+        "318 Phaya Thai Road, Ratchathewi, Phaya Thai, 10400 Bangkok, Thailand",
+        "13.75059872",
+        "100.53118944",
+        "https://cf.bstatic.com/images/hotel/max1024x768/285/285194000.jpg"
     ],
     [
-        " Vacation Bangkok, The Artistic Hom",
-        9.3,
-        9.17,
-        "762, 764 Thanon Chroen Rat, Khlong Ton Sai, Khlong San, 10600 Bangkok, Thailand"
+        "Hotel lebua at State Tower (The World\u2019s First Vertical Destination)",
+        8.8,
+        4.2625,
+        "State Tower 1055/111 Silom Road, Bangrak, Bang Rak, 10500 Bangkok, Thailand",
+        "13.72183665",
+        "100.51690400",
+        "https://cf.bstatic.com/images/hotel/max1024x768/264/264589244.jpg"
     ],
     [
-        " Siam Kempinski Hotel Bangkok",
-        9.1,
-        8.1365,
-        "991/9 Rama I Road, Pathumwan, Pathumwan, 10330 Bangkok, Thailand"
-    ],
-    [
-        " Le Tada Residenc",
+        "Hotel Millennium Hilton Bangkok",
         8.4,
-        7.845,
-        "440/9 Ratchawithi Soi 3, Pratunam, Ratchathewi, Pathumwan, 10400 Bangkok, Thailand"
+        2.263,
+        "123 Charoennakorn Road, Klongtonsai, Klongsan, 10600 Bangkok, Thailand",
+        "13.72874936",
+        "100.51077515",
+        "https://cf.bstatic.com/images/hotel/max1024x768/282/282915292.jpg"
     ],
     [
-        " Montien Hotel Bangkok",
-        7.5,
-        6.748000000000001,
-        "54 Surawongse Road, Bangrak, Bang Rak, 10500 Bangkok, Thailand"
+        "Hotel Bangkok Marriott Hotel Sukhumvit",
+        8.9,
+        4.8755,
+        "2 Sukhumvit Soi 57, Klongtan Nua, Wattana, Wattana, 10110 Bangkok, Thailand",
+        "13.72339222",
+        "100.58048040",
+        "https://cf.bstatic.com/images/hotel/max1024x768/101/101670168.jpg"
     ],
     [
-        "Apartment Bangkok Homestay by BK",
-        9.6,
-        8.8245,
-        "6/97 Bangkok Feliz Sathorn-Taksin, Soi Krung Thonburi 5, Khwaeng Khlong Tonsai, Khlongsan, 10600 Bangkok, Thailand"
-    ],
-    [
-        " Villa Phra Sumen Bangkok",
-        9.0,
-        9.174,
-        "457 Phrasumen Rd. Bawornniwet Pranakorn, 10200 Bangkok, Thailand"
-    ],
-    [
-        "Apartment Forty Seven view by Pattiya",
-        9.5,
-        7.960000000000001,
-        "1055/1263 State Tower - 47th Floor, Silom Road, Bangrak, Bang Rak, 10500 Bangkok, Thailand"
-    ],
-    [
-        " Holiday Inn Express Bangkok Sathorn",
-        8.6,
-        8.8765,
-        "51 Soi Pipat Silom, Bangrak, Bang Rak, 10500 Bangkok, Thailand"
-    ],
-    [
-        " Eastin Hotel Makkasan, Bangkok",
-        7.8,
-        7.576499999999999,
-        "1091/343 New Petchburi Road,Makkasan,Rajthevee, Pathumwan, 10400 Bangkok, Thailand"
-    ],
-    [
-        " Tarawish ",
-        8.4,
-        8.482,
-        "45, Soi Phetchaburi 13, Phaya Thai, Ratchathewi, Pathumwan, 10400 Bangkok, Thailand"
-    ],
-    [
-        " COMO Metropolitan Bangkok",
-        9.2,
-        9.434000000000001,
-        "27 South Sathorn Road, Tungmahamek, Sathorn, 10120 Bangkok, Thailand"
-    ],
-    [
-        " Twin Towers ",
-        7.2,
-        7.1884999999999994,
-        "88/2 New Rama 6th Road, Rong Muang, Patumwan, 10330 Bangkok, Thailand"
-    ],
-    [
-        " The Salil Hotel Sukhumvit 57 - Thonglor",
-        8.6,
-        8.2675,
-        "Sukhumvit Soi 57, Klongtan Nua, Wattana, Wattana, 10110 Bangkok, Thailand"
-    ],
-    [
-        "Villa Artistic and Quirky Home with a Copper Bath and Breakfas",
-        9.5,
-        9.376999999999999,
-        "60/29, Soi Prompak Yaek 1, Thonglor 25, Khlong Tan Nuea, Watthana, Wattana, 10110 Bangkok, Thailand"
-    ],
-    [
-        " H3 Hotel Paulista",
-        8.6,
-        7.62,
-        "Rua Rocha, 217, Bela Vista, S\u00e3o Paulo, CEP 01330-000, Brazil"
-    ],
-    [
-        " Dynasty Grande ",
+        "Hotel Novotel Bangkok Platinum Pratunam - SHA Certified",
         8.5,
-        7.4275,
-        "21 Soi Sukhumvit 6, Sukhumvit Rd. Klongtoey,, Khlong Toei, 10110 Bangkok, Thailand"
+        2.16,
+        "220 Petchaburi Road, Ratchathewi, 10400 Bangkok, Thailand",
+        "13.74976501",
+        "100.54007292",
+        "https://cf.bstatic.com/images/hotel/max1024x768/269/269881940.jpg"
     ],
     [
-        " Somerset Park Suanplu",
+        "Hotel Pathumwan Princess Hotel",
+        8.9,
+        3.7475000000000005,
+        "444 MBK Centre, Phayathai Road, Pathumwan, Pathumwan, 10330 Bangkok, Thailand",
+        "13.74307439",
+        "100.52990735",
+        "https://cf.bstatic.com/images/hotel/max1024x768/266/266335602.jpg"
+    ],
+    [
+        "Hotel Chatrium Hotel Riverside Bangkok",
+        9.1,
+        3.715,
+        "28 Chareonkrung Soi 70, Bangkholame, Bang Kho Laem, 10120 Bangkok, Thailand",
+        "13.70999104",
+        "100.51109165",
+        "https://cf.bstatic.com/images/hotel/max1024x768/216/216500882.jpg"
+    ],
+    [
+        "Hotel Carlton Hotel Bangkok Sukhumvit",
+        9.3,
+        4.537,
+        "Carlton Hotel Bangkok Sukhumvit, 491 Sukhumvit Rd. Klongtoey Nua, Wattana, Wattana, 10110 Bangkok, Thailand",
+        "13.73437351",
+        "100.56448141",
+        "https://cf.bstatic.com/images/hotel/max1024x768/266/266929171.jpg"
+    ],
+    [
+        "Hotel Novotel Bangkok Sukhumvit 20 - SHA Certified",
+        9.0,
+        4.005999999999999,
+        "19/9 Soi Sukhumvit 20 Kwang Klongtoey, Khet Klongtoey, Khlong Toei, 10110 Bangkok, Thailand",
+        "13.73152200",
+        "100.56402100",
+        "https://cf.bstatic.com/images/hotel/max1024x768/268/268960932.jpg"
+    ],
+    [
+        "Hotel Royal Orchid Sheraton Hotel and Towers",
         8.6,
-        6.593500000000001,
-        "39 Soi Suanplu, South Sathorn Road, Tungmahamek, Sathorn, 10120 Bangkok, Thailand"
+        4.2625,
+        "2 Charoen Krung Road Soi 30 (Captain Bush Lane), Bang Rak, 10500 Bangkok, Thailand",
+        "13.72919230",
+        "100.51384091",
+        "https://cf.bstatic.com/images/hotel/max1024x768/253/253636297.jpg"
+    ],
+    [
+        "Hotel InterContinental Bangkok, an IHG Hotel",
+        8.9,
+        0.0,
+        "973 Phloen Chit Road, Pathumwan, 10330 Bangkok, Thailand",
+        "13.74469495",
+        "100.54143280",
+        "https://cf.bstatic.com/images/hotel/max1024x768/285/285185343.jpg"
+    ],
+    [
+        "Hotel Shangri-La Hotel, Bangkok",
+        8.9,
+        2.96,
+        "89 Soi Wat Suan Plu, Bangrak, Bang Rak, 10500 Bangkok, Thailand",
+        "13.72126601",
+        "100.51456511",
+        "https://cf.bstatic.com/images/hotel/max1024x768/295/295682642.jpg"
+    ],
+    [
+        "Hotel Bangkok Marriott Marquis Queen\u2019s Park",
+        8.7,
+        2.3459999999999996,
+        "199 Sukhumvit Soi 22, Klong Ton Klong Toey, Khlong Toei, 10110 Bangkok, Thailand",
+        "13.73031302",
+        "100.56533614",
+        "https://cf.bstatic.com/images/hotel/max1024x768/262/262276007.jpg"
+    ],
+    [
+        "Hotel Centre Point Sukhumvit 10",
+        8.6,
+        4.404,
+        "39, Sukhumvit Soi 10, Sukhumvit Road, Klongtoey, Khlong Toei, 10110 Bangkok, Thailand",
+        "13.73493492",
+        "100.55719078",
+        "https://cf.bstatic.com/images/hotel/max1024x768/101/101395963.jpg"
+    ],
+    [
+        "Hotel Oakwood Suites Bangkok - SHA Certified",
+        9.1,
+        3.612,
+        "20 Soi Sukhumvit 24, Sukhumvit Road Khlong Tan, Khlong Toei, Khlong Toei, 10110 Bangkok, Thailand",
+        "13.72850346",
+        "100.56877247",
+        "https://cf.bstatic.com/images/hotel/max1024x768/267/267813721.jpg"
+    ],
+    [
+        "Apartments\nThe Quarter Ploenchit by UHG",
+        8.9,
+        3.7380000000000004,
+        "Phloen Chit Road 1, Pathumwan, 10330 Bangkok, Thailand",
+        "13.73874938",
+        "100.54918180",
+        "https://cf.bstatic.com/images/hotel/max1024x768/278/278413714.jpg"
+    ],
+    [
+        "Hotel SureStay Plus by Best Western Sukhumvit 2",
+        8.7,
+        4.4,
+        "89 Sukhumvit Road, Soi 2, Klong Toey, Khlong Toei, 10110 Bangkok, Thailand",
+        "13.73927180",
+        "100.55199409",
+        "https://cf.bstatic.com/images/hotel/max1024x768/115/115788745.jpg"
+    ],
+    [
+        "Hotel The Continent Hotel Bangkok by Compass Hospitality",
+        8.2,
+        2.7435,
+        "413 Sukhumvit Road (Between Sukhumvit Soi 21 and Sukhumvit Soi 23), Klongtoey Nua, Wattana, Bangkok, Wattana, 10110 Bangkok, Thailand",
+        "13.73610479",
+        "100.56188330",
+        "https://cf.bstatic.com/images/hotel/max1024x768/280/280068659.jpg"
+    ],
+    [
+        "Hotel Asoke Residence Sukhumvit by UHG",
+        8.4,
+        2.96,
+        "235/20-25 Sukhumvit Soi 21 (Asoke), Klongtoey Nua, Wattana, Wattana, 10110 Bangkok, Thailand",
+        "13.74645880",
+        "100.56169420",
+        "https://cf.bstatic.com/images/hotel/max1024x768/291/291829905.jpg"
+    ],
+    [
+        "Hotel The Quarter Ladprao by UHG",
+        8.9,
+        4.215,
+        "80 Soi Ladprao 4, Ladprao Road, Chom Phon, Chatuchak, Chatuchak, 10400 Bangkok, Thailand",
+        "13.81210535",
+        "100.56210887",
+        "https://cf.bstatic.com/images/hotel/max1024x768/202/202966994.jpg"
     ]
 ]

@@ -1,194 +1,272 @@
 [
     [
-        "Century Park",
-        "9 Ratchaprarop Rd., Pratunam-Victory Monument, 10400 Bangkok, Thailand",
-        "13.7620847",
-        "100.5411028",
-        ""
+        "Hotel Bangkok Marriott Hotel Sukhumvit",
+        8.9,
+        4.8755,
+        "2 Sukhumvit Soi 57, Klongtan Nua, Wattana, Wattana, 10110 Bangkok, Thailand",
+        "13.72339222",
+        "100.58048040",
+        "https://cf.bstatic.com/images/hotel/max1024x768/101/101670168.jpg"
     ],
     [
-        "Somerset Park Suanplu",
-        "39 Soi Suanplu, South Sathorn Road, Tungmahamek, Sathorn, 10120 Bangkok, Thailand",
-        "13.7213428",
-        "100.5356085",
-        ""
+        "Hotel Carlton Hotel Bangkok Sukhumvit",
+        9.3,
+        4.537,
+        "Carlton Hotel Bangkok Sukhumvit, 491 Sukhumvit Rd. Klongtoey Nua, Wattana, Wattana, 10110 Bangkok, Thailand",
+        "13.73437351",
+        "100.56448141",
+        "https://cf.bstatic.com/images/hotel/max1024x768/266/266929171.jpg"
     ],
     [
-        "Montien Hotel Bangkok",
-        "54 Surawongse Road, Bangrak, Bang Rak, 10500 Bangkok, Thailand",
-        "13.730542",
-        "100.5289095",
-        ""
+        "Hotel Centre Point Sukhumvit 10",
+        8.6,
+        4.404,
+        "39, Sukhumvit Soi 10, Sukhumvit Road, Klongtoey, Khlong Toei, 10110 Bangkok, Thailand",
+        "13.73493492",
+        "100.55719078",
+        "https://cf.bstatic.com/images/hotel/max1024x768/101/101395963.jpg"
     ],
     [
-        "Twin Towers",
-        "88/2 New Rama 6th Road, Rong Muang, Patumwan, 10330 Bangkok, Thailand",
-        "13.7458435",
-        "100.5174359",
-        ""
+        "Hotel SureStay Plus by Best Western Sukhumvit 2",
+        8.7,
+        4.4,
+        "89 Sukhumvit Road, Soi 2, Klong Toey, Khlong Toei, 10110 Bangkok, Thailand",
+        "13.73927180",
+        "100.55199409",
+        "https://cf.bstatic.com/images/hotel/max1024x768/115/115788745.jpg"
     ],
     [
-        "Dynasty Grande",
-        "21 Soi Sukhumvit 6, Sukhumvit Rd. Klongtoey,, Khlong Toei, 10110 Bangkok, Thailand",
-        "13.7389435",
-        "100.5516876",
-        ""
+        "Hotel Royal Orchid Sheraton Hotel and Towers",
+        8.6,
+        4.2625,
+        "2 Charoen Krung Road Soi 30 (Captain Bush Lane), Bang Rak, 10500 Bangkok, Thailand",
+        "13.72919230",
+        "100.51384091",
+        "https://cf.bstatic.com/images/hotel/max1024x768/253/253636297.jpg"
     ],
     [
-        "Eastin Hotel Makkasan",
-        "1091/343 New Petchburi Road,Makkasan,Rajthevee, Pathumwan, 10400 Bangkok, Thailand",
-        "13.753204",
-        "100.5442766",
-        ""
+        "Hotel lebua at State Tower (The World\u2019s First Vertical Destination)",
+        8.8,
+        4.2625,
+        "State Tower 1055/111 Silom Road, Bangrak, Bang Rak, 10500 Bangkok, Thailand",
+        "13.72183665",
+        "100.51690400",
+        "https://cf.bstatic.com/images/hotel/max1024x768/264/264589244.jpg"
     ],
     [
-        "H3 Hotel Paulista",
-        "Rua Rocha, 217, Bela Vista, S\\u00e3o Paulo, CEP 01330-000, Brazil",
-        "-23.5581765",
-        "-46.6518153",
-        ""
+        "Hotel The Quarter Ladprao by UHG",
+        8.9,
+        4.215,
+        "80 Soi Ladprao 4, Ladprao Road, Chom Phon, Chatuchak, Chatuchak, 10400 Bangkok, Thailand",
+        "13.81210535",
+        "100.56210887",
+        "https://cf.bstatic.com/images/hotel/max1024x768/202/202966994.jpg"
     ],
     [
-        "Le Tada Residenc",
-        "440/9 Ratchawithi Soi 3, Pratunam, Ratchathewi, Pathumwan, 10400 Bangkok, Thailand",
-        "13.7612137",
-        "100.5377114",
-        ""
+        "Hotel Novotel Bangkok Sukhumvit 20 - SHA Certified",
+        9.0,
+        4.005999999999999,
+        "19/9 Soi Sukhumvit 20 Kwang Klongtoey, Khet Klongtoey, Khlong Toei, 10110 Bangkok, Thailand",
+        "13.73152200",
+        "100.56402100",
+        "https://cf.bstatic.com/images/hotel/max1024x768/268/268960932.jpg"
     ],
     [
-        "Apartment Forty Seven view by Pattiya",
-        "1055/1263 State Tower - 47th Floor, Silom Road, Bangrak, Bang Rak, 10500 Bangkok, Thailand",
-        "13.7214956",
-        "100.5146955",
-        ""
+        "Hotel Pathumwan Princess Hotel",
+        8.9,
+        3.7475000000000005,
+        "444 MBK Centre, Phayathai Road, Pathumwan, Pathumwan, 10330 Bangkok, Thailand",
+        "13.74307439",
+        "100.52990735",
+        "https://cf.bstatic.com/images/hotel/max1024x768/266/266335602.jpg"
     ],
     [
-        "Siam Kempinski Hotel Bangkok",
-        "991/9 Rama I Road, Pathumwan, Pathumwan, 10330 Bangkok, Thailand",
-        "13.7484102",
-        "100.532607",
-        ""
-    ],
-
-	[
-        "Apartment UJC bukit bitang service suite @ times squar",
-        "Jalan Imbi Berjaya Time Square (east tower) Office (A35-14), Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
-        "3.1501121",
-        "101.7007903"
+        "Hotel Evergreen Place Siam by UHG",
+        8.4,
+        3.7385,
+        "318 Phaya Thai Road, Ratchathewi, Phaya Thai, 10400 Bangkok, Thailand",
+        "13.75059872",
+        "100.53118944",
+        "https://cf.bstatic.com/images/hotel/max1024x768/285/285194000.jpg"
     ],
     [
-        "Apartment Diamond Suite @ Times Squar",
-        "Berjaya Times Square East Tower,1 Jalan imbi suite No-A-29-08,Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
-        "3.1501549",
-        "101.7007903"
+        "Hotel Four Seasons Hotel Singapore (SG Clean, Staycation Approved)",
+        9.2,
+        4.404,
+        "190 Orchard Boulevard, Orchard, 248646 Singapore, Singapore",
+        "1.30495619",
+        "103.82879645",
+        "https://cf.bstatic.com/images/hotel/max1024x768/285/285650769.jpg"
     ],
     [
-        "Apartment Residents Service Suite@ Times Squar",
-        "1 Jalan Imbi, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
-        "3.1501977",
-        "101.7007903"
+        "Hotel W Singapore - Sentosa Cove (SG Clean)",
+        8.6,
+        4.116999999999999,
+        "21 Ocean Way, Sentosa Island, 098372 Singapore, Singapore",
+        "1.24673183",
+        "103.84245157",
+        "https://cf.bstatic.com/images/hotel/max1024x768/253/253571667.jpg"
     ],
     [
-        "Apartment Crest Luxury Residences",
-        "Crest Residence, Jalan Cendana,, 50300 Kuala Lumpur, Malaysia",
-        "3.1584332",
-        "101.7029009"
+        "Hotel Andaz Singapore \u2013 A Concept by Hyatt (SG Clean)",
+        9.1,
+        3.406,
+        "5 Fraser Street, 189354 Singapore, Singapore",
+        "1.29939500",
+        "103.85821900",
+        "https://cf.bstatic.com/images/hotel/max1024x768/131/131354259.jpg"
     ],
     [
-        "Apartment Victoria Home EST",
-        "44A, Jalan Ang Seng, Brickfields, The Establishment, Alila, Brickfields, 50470 Kuala Lumpur, Malaysia",
-        "3.1584439",
-        "101.7029009"
+        "Condo Hotel\nCitadines Balestier (SG Clean)",
+        8.9,
+        3.182,
+        "207 Balestier Road, Novena, 329683 Singapore, Singapore",
+        "1.32101100",
+        "103.85258000",
+        "https://cf.bstatic.com/images/hotel/max1024x768/268/268628164.jpg"
     ],
     [
-        "Apartment Prime Service Suite @Times Squar",
-        "Times Square Apartments ,Tower A East Wing, No 1, Jalan Imbi , Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
-        "3.1421667",
-        "101.7084511"
+        "Hotel The Fullerton Hotel Singapore (SG Clean, Staycation Approved)",
+        9.1,
+        3.0244999999999997,
+        "1 Fullerton Square, Marina Bay, 049178 Singapore, Singapore",
+        "1.28559023",
+        "103.85305703",
+        "https://cf.bstatic.com/images/hotel/max1024x768/237/237415834.jpg"
     ],
     [
-        "Apartment Victoria Home M City",
-        "326, Jalan Ampang, M City Ampang, 50450 Kuala Lumpur, Malaysia",
-        "3.1589274",
-        "101.7454823"
+        "Resort Amara Sanctuary Resort Sentosa (SG Clean, Staycation Approved)",
+        7.4,
+        2.96,
+        "1 Larkhill Road, Sentosa, Sentosa Island, 099394 Singapore, Singapore",
+        "1.25149430",
+        "103.82266760",
+        "https://cf.bstatic.com/images/hotel/max1024x768/267/267831416.jpg"
     ],
     [
-        "ZEN Rooms Masjid Jamek",
-        "Star Points Hotel, Jalan Masjid India, No 149, Kuala Lumpur 50100, Malaysia, 50100 Kuala Lumpur, Malaysia",
-        "3.1527924",
-        "101.6951033"
+        "Resort Shangri-La's Rasa Sentosa Resort & Spa (SG Clean)",
+        8.6,
+        2.96,
+        "101 Siloso Road, Sentosa Island, 098970 Singapore, Singapore",
+        "1.25776112",
+        "103.80972594",
+        "https://cf.bstatic.com/images/hotel/max1024x768/295/295682836.jpg"
     ],
     [
-        "Apartment KLCC Apartment Suites",
-        "No 6, Jalan Kia Peng, 50450 Kuala Lumpur, Malaysia",
-        "3.1528191",
-        "101.6885372"
+        "Hotel PARKROYAL COLLECTION Pickering, Singapore (SG Clean,Staycation Approved)",
+        9.0,
+        2.96,
+        "3 Upper Pickering Street, Chinatown, 058289 Singapore, Singapore",
+        "1.28580207",
+        "103.84636492",
+        "https://cf.bstatic.com/images/hotel/max1024x768/265/265723457.jpg"
     ],
     [
-        "Apartment Regalia Studio 109 Suites",
-        "No. 2, Jalan Anjung Putra, Off Jalan Sultan Ismail,, 50480 Kuala Lumpur, Malaysia",
-        "3.1544888",
-        "101.6744672"
-    ],
-
-	[
-        "Condo Hotel Orchard Scotts Residences by Far East Hospitality",
-        "5 Anthony Road, Orchard, 229954 Singapore, Singapore",
-        "1.3097222",
-        "103.8361446"
+        "Condo Hotel\nPan Pacific Serviced Suites Beach Road (SG Clean, Staycation Approved)",
+        8.9,
+        2.96,
+        "7500B Beach Road, 199592 Singapore, Singapore",
+        "1.29945283",
+        "103.85994673",
+        "https://cf.bstatic.com/images/hotel/max1024x768/275/275937970.jpg"
     ],
     [
-        "Condo Hotel Thanksgiving Serviced Residenc",
-        "328 River Valley Road, 238360 Singapore, Singapore",
-        "1.2962651",
-        "103.8387538"
+        "Hotel Pan Pacific Singapore (SG Clean, Staycation Approved)",
+        9.0,
+        2.96,
+        "7 Raffles Boulevard, Marina Square, Marina Bay, 039595 Singapore, Singapore",
+        "1.29201250",
+        "103.85860920",
+        "https://cf.bstatic.com/images/hotel/max1024x768/859/85960609.jpg"
     ],
     [
-        "Condo Hotel Far East Plaza Residences by Far East Hospitality",
-        "14 Scotts Road, Orchard, 228213 Singapore, Singapore",
-        "1.3073504",
-        "103.8313383"
+        "Hotel InterContinental Kuala Lumpur, an IHG Hotel",
+        8.8,
+        4.3245000000000005,
+        "165, Jalan Ampang, 50450 Kuala Lumpur, Malaysia",
+        "3.15967153",
+        "101.71807846",
+        "https://cf.bstatic.com/images/hotel/max1024x768/248/248456944.jpg"
     ],
     [
-        "Condo Hotel Regency House by Far East Hospitality",
-        "121 Penang Road, Dhoby Ghaut, 238464 Singapore, Singapore",
-        "1.2995261",
-        "103.8397705"
+        "Hotel JW Marriott Hotel, Kuala Lumpur",
+        8.9,
+        4.116999999999999,
+        "183 Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+        "3.14764540",
+        "101.71309948",
+        "https://cf.bstatic.com/images/hotel/max1024x768/111/111817694.jpg"
     ],
     [
-        "Condo Hotel Fraser Suites Singapor",
-        "491A River Valley Road, 248372 Singapore, Singapore",
-        "1.299418",
-        "103.8277963"
+        "Apartments\nAscott Kuala Lumpur",
+        8.7,
+        4.019,
+        "No 9 Jalan Pinang, 50450 Kuala Lumpur, Malaysia",
+        "3.15492800",
+        "101.71062100",
+        "https://cf.bstatic.com/images/hotel/max1024x768/279/279259424.jpg"
     ],
     [
-        "Resort Resorts World Sentosa - Beach Villas",
-        "8 Sentosa Gateway, Sentosa Island, 098269 Singapore, Singapore",
-        "1.2588203",
-        "103.8128488"
+        "Hotel Mandarin Oriental, Kuala Lumpur",
+        9.1,
+        3.612,
+        "Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia",
+        "3.15592624",
+        "101.71145797",
+        "https://cf.bstatic.com/images/hotel/max1024x768/114/114166180.jpg"
     ],
     [
-        "Condo Hotel Orchard Parksuites by Far East Hospitality",
-        "11 Orchard Turn, Orchard, 238800 Singapore, Singapore",
-        "1.3030448",
-        "103.8306248"
+        "Apartments\nExpressionz Professional Suites by MyKey Global",
+        7.7,
+        3.2169999999999996,
+        "Jalan 1/65a off Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia",
+        "3.16960200",
+        "101.71133900",
+        "https://cf.bstatic.com/images/hotel/max1024x768/210/210200691.jpg"
     ],
     [
-        "Condo Hotel Orchard Point Serviced Apartments",
-        "160 Orchard Road #06-01 OG Orchard Point, Orchard, 238842 Singapore, Singapore",
-        "1.3013558",
-        "103.8385187"
+        "Hotel Shangri-La Hotel Kuala Lumpur",
+        9.0,
+        3.0244999999999997,
+        "11 Jalan Sultan Ismail, 50250 Kuala Lumpur, Malaysia",
+        "3.15415867",
+        "101.70664340",
+        "https://cf.bstatic.com/images/hotel/max1024x768/295/295683339.jpg"
     ],
     [
-        "Condo Hotel Pan Pacific Serviced Suites Orchard, Singapor",
-        "96 Somerset Road, Orchard, 238163 Singapore, Singapore",
-        "1.3002412",
-        "103.8401541"
+        "Hotel VE Hotel & Residence",
+        8.6,
+        2.96,
+        "Bangsar South City, No 8, Jalan Kerinchi , 59200 Kuala Lumpur, Malaysia",
+        "3.11038419",
+        "101.66553850",
+        "https://cf.bstatic.com/images/hotel/max1024x768/899/89985053.jpg"
     ],
     [
-        "Condo Hotel 8 on Claymore Serviced Residences - By Royal Plaza on Scotts",
-        "8 Claymore Hill, Orchard, 229572 Singapore, Singapore",
-        "1.3079967",
-        "103.8272032"
+        "Hotel Komune Living",
+        8.2,
+        2.96,
+        "No. 20 Jalan Kerinchi Kiri 3, 59200 Kuala Lumpur, Malaysia",
+        "3.11421391",
+        "101.66516083",
+        "https://cf.bstatic.com/images/hotel/max1024x768/236/236945321.jpg"
+    ],
+    [
+        "Condo Hotel\nTHE FACE Suites",
+        8.6,
+        2.96,
+        "1020, Jalan Sultan Ismail, 50250 Kuala Lumpur, Malaysia",
+        "3.15843900",
+        "101.70379900",
+        "https://cf.bstatic.com/images/hotel/max1024x768/238/238697697.jpg"
+    ],
+    [
+        "Hotel The Ritz-Carlton, Kuala Lumpur",
+        8.7,
+        2.96,
+        "168 Jalan Imbi, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+        "3.14680445",
+        "101.71540886",
+        "https://cf.bstatic.com/images/hotel/max1024x768/117/117343899.jpg"
     ]
 ]
