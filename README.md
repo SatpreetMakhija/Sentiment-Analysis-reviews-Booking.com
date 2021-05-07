@@ -2,7 +2,7 @@
 This project was part of CS-2376, Data Mining and Warehousing.
 
 
-Use scraper.py to mine data of hotels from Booking.com by providing the name of the city you want the data for. \\
+Use scraper.py to mine data of hotels from Booking.com by providing the name of the city you want the data for.\
 Then, use NLTP library to analyse the comments for each hotel and provide a polarity score to it.* \\
 Visualise the results by running sentiment.py in the form of bar graphs.
 
