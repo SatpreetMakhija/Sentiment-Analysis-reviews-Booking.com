@@ -1,5 +1,7 @@
-# lab3new
-DMW lab 3
+# Analyzing reviews from Booking.com
+This project was part of CS-2376, Data Mining and Warehousing.
+
+
 
 
 Scraper.py requires the following modules:
