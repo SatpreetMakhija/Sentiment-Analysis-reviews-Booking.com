@@ -9,6 +9,8 @@ Visualise the results by running sentiment.py in the form of bar graphs.\
 ![](results/hotel-analysis.gif)
 
 
-Go inside map-box folder and launch the application to geospatially locate the top 10 hotels of a particular location based on the polarity score calculated for each hotel. We used Mapbox API to locate the hotels.\
+Go inside map-box folder and launch the application. \
+```npm start ```
+It geospatially locate the top 10 hotels of a particular location based on the polarity score calculated for each hotel. We used Mapbox API to locate the hotels.\
 
 ![](results/map-hotels.gif)
